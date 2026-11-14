@@ -1,0 +1,424 @@
+{
+  "source_id": "worldbank-vietnam-taking-stock-aug-2022",
+  "title": "Báo cáo Điểm lại, Tháng 8 năm 2022: Giáo dục để tăng trưởng (Taking Stock, August 2022: Educate to Grow)",
+  "publisher": "Ngân hàng Thế giới (The World Bank)",
+  "publication_date": "2022-08",
+  "accessed_at": "2026-11-14",
+  "source_path_or_url": "https://openknowledge.worldbank.org/handle/10986/37834",
+  "direct_download_url": "https://openknowledge.worldbank.org/server/api/core/bitstreams/1ca28eae-6ff3-5d1b-8252-9b57bad691eb/content",
+  "local_path": "starter/data/taking_stock_aug_2022_vi.pdf",
+  "license_or_permission": "Creative Commons Attribution 3.0 IGO (CC BY 3.0 IGO)",
+  "license_url": "http://creativecommons.org/licenses/by/3.0/igo",
+  "attribution": "© 2022 The World Bank / Ngân hàng Thế giới. 1818 H Street NW, Washington DC 20433. Licensed under CC BY 3.0 IGO.",
+  "language": "vi",
+  "format": "application/pdf",
+  "page_counting_method": "Đếm theo trang vật lý PDF (1-based physical index 1..68). Loại trừ 16 trang không chứa nội dung phân tích (bìa, bản quyền, trang trắng, mục lục, từ viết tắt, cảm ơn, ảnh ngăn chương, tài liệu tham khảo). Còn lại đúng 52 trang nội dung hữu ích (vượt yêu cầu tối thiểu 30 trang).",
+  "statistics": {
+    "total_physical_pages": 68,
+    "excluded_pages_count": 16,
+    "useful_content_pages_count": 52,
+    "total_content_characters": 148018,
+    "sections": {
+      "tong_quan": 7,
+      "kinh_te_vi_mo": 28,
+      "giao_duc_dai_hoc": 16,
+      "phu_luc": 1
+    }
+  },
+  "excluded_pages": [
+    {
+      "physical_page": 1,
+      "character_count": 162,
+      "reason": "Trang bìa trước (Front cover)"
+    },
+    {
+      "physical_page": 2,
+      "character_count": 1472,
+      "reason": "Thông tin bản quyền & nhà xuất bản"
+    },
+    {
+      "physical_page": 3,
+      "character_count": 56,
+      "reason": "Trang tiêu đề lặp lại"
+    },
+    {
+      "physical_page": 4,
+      "character_count": 0,
+      "reason": "Trang trắng (Blank)"
+    },
+    {
+      "physical_page": 5,
+      "character_count": 2482,
+      "reason": "Mục lục, danh mục bảng biểu (TOC)"
+    },
+    {
+      "physical_page": 6,
+      "character_count": 4812,
+      "reason": "Mục lục, danh mục bảng biểu (TOC)"
+    },
+    {
+      "physical_page": 7,
+      "character_count": 4624,
+      "reason": "Mục lục, danh mục bảng biểu (TOC)"
+    },
+    {
+      "physical_page": 8,
+      "character_count": 656,
+      "reason": "Danh mục từ viết tắt"
+    },
+    {
+      "physical_page": 9,
+      "character_count": 817,
+      "reason": "Lời cảm ơn"
+    },
+    {
+      "physical_page": 10,
+      "character_count": 98,
+      "reason": "Trang lót / ảnh phân tách chương (98 chars)"
+    },
+    {
+      "physical_page": 18,
+      "character_count": 208,
+      "reason": "Trang lót / ảnh phân tách chương (208 chars)"
+    },
+    {
+      "physical_page": 44,
+      "character_count": 2395,
+      "reason": "Trang lót / ảnh phân tách chương (2395 chars)"
+    },
+    {
+      "physical_page": 65,
+      "character_count": 2808,
+      "reason": "Tài liệu tham khảo (References)"
+    },
+    {
+      "physical_page": 66,
+      "character_count": 27,
+      "reason": "Trang ghi chú/trắng cuối sách"
+    },
+    {
+      "physical_page": 67,
+      "character_count": 27,
+      "reason": "Trang ghi chú/trắng cuối sách"
+    },
+    {
+      "physical_page": 68,
+      "character_count": 98,
+      "reason": "Trang bìa sau (Back cover)"
+    }
+  ],
+  "content_pages": [
+    {
+      "physical_page": 11,
+      "printed_page": "roman_11",
+      "section": "tong_quan",
+      "character_count": 4025
+    },
+    {
+      "physical_page": 12,
+      "printed_page": "roman_12",
+      "section": "tong_quan",
+      "character_count": 4056
+    },
+    {
+      "physical_page": 13,
+      "printed_page": "roman_13",
+      "section": "tong_quan",
+      "character_count": 4572
+    },
+    {
+      "physical_page": 14,
+      "printed_page": "roman_14",
+      "section": "tong_quan",
+      "character_count": 4328
+    },
+    {
+      "physical_page": 15,
+      "printed_page": "roman_15",
+      "section": "tong_quan",
+      "character_count": 4454
+    },
+    {
+      "physical_page": 16,
+      "printed_page": "roman_16",
+      "section": "tong_quan",
+      "character_count": 4198
+    },
+    {
+      "physical_page": 17,
+      "printed_page": "roman_17",
+      "section": "tong_quan",
+      "character_count": 739
+    },
+    {
+      "physical_page": 19,
+      "printed_page": 1,
+      "section": "kinh_te_vi_mo",
+      "character_count": 4276
+    },
+    {
+      "physical_page": 20,
+      "printed_page": 2,
+      "section": "kinh_te_vi_mo",
+      "character_count": 1898
+    },
+    {
+      "physical_page": 21,
+      "printed_page": 3,
+      "section": "kinh_te_vi_mo",
+      "character_count": 2967
+    },
+    {
+      "physical_page": 22,
+      "printed_page": 4,
+      "section": "kinh_te_vi_mo",
+      "character_count": 1312
+    },
+    {
+      "physical_page": 23,
+      "printed_page": 5,
+      "section": "kinh_te_vi_mo",
+      "character_count": 1235
+    },
+    {
+      "physical_page": 24,
+      "printed_page": 6,
+      "section": "kinh_te_vi_mo",
+      "character_count": 2022
+    },
+    {
+      "physical_page": 25,
+      "printed_page": 7,
+      "section": "kinh_te_vi_mo",
+      "character_count": 2166
+    },
+    {
+      "physical_page": 26,
+      "printed_page": 8,
+      "section": "kinh_te_vi_mo",
+      "character_count": 2712
+    },
+    {
+      "physical_page": 27,
+      "printed_page": 9,
+      "section": "kinh_te_vi_mo",
+      "character_count": 3136
+    },
+    {
+      "physical_page": 28,
+      "printed_page": 10,
+      "section": "kinh_te_vi_mo",
+      "character_count": 2744
+    },
+    {
+      "physical_page": 29,
+      "printed_page": 11,
+      "section": "kinh_te_vi_mo",
+      "character_count": 2611
+    },
+    {
+      "physical_page": 30,
+      "printed_page": 12,
+      "section": "kinh_te_vi_mo",
+      "character_count": 1652
+    },
+    {
+      "physical_page": 31,
+      "printed_page": 13,
+      "section": "kinh_te_vi_mo",
+      "character_count": 2825
+    },
+    {
+      "physical_page": 32,
+      "printed_page": 14,
+      "section": "kinh_te_vi_mo",
+      "character_count": 2696
+    },
+    {
+      "physical_page": 33,
+      "printed_page": 15,
+      "section": "kinh_te_vi_mo",
+      "character_count": 2483
+    },
+    {
+      "physical_page": 34,
+      "printed_page": 16,
+      "section": "kinh_te_vi_mo",
+      "character_count": 2809
+    },
+    {
+      "physical_page": 35,
+      "printed_page": 17,
+      "section": "kinh_te_vi_mo",
+      "character_count": 2959
+    },
+    {
+      "physical_page": 36,
+      "printed_page": 18,
+      "section": "kinh_te_vi_mo",
+      "character_count": 3713
+    },
+    {
+      "physical_page": 37,
+      "printed_page": 19,
+      "section": "kinh_te_vi_mo",
+      "character_count": 1511
+    },
+    {
+      "physical_page": 38,
+      "printed_page": 20,
+      "section": "kinh_te_vi_mo",
+      "character_count": 4135
+    },
+    {
+      "physical_page": 39,
+      "printed_page": 21,
+      "section": "kinh_te_vi_mo",
+      "character_count": 2289
+    },
+    {
+      "physical_page": 40,
+      "printed_page": 22,
+      "section": "kinh_te_vi_mo",
+      "character_count": 3267
+    },
+    {
+      "physical_page": 41,
+      "printed_page": 23,
+      "section": "kinh_te_vi_mo",
+      "character_count": 2663
+    },
+    {
+      "physical_page": 42,
+      "printed_page": 24,
+      "section": "kinh_te_vi_mo",
+      "character_count": 1754
+    },
+    {
+      "physical_page": 43,
+      "printed_page": 25,
+      "section": "kinh_te_vi_mo",
+      "character_count": 3390
+    },
+    {
+      "physical_page": 45,
+      "printed_page": 27,
+      "section": "kinh_te_vi_mo",
+      "character_count": 3685
+    },
+    {
+      "physical_page": 46,
+      "printed_page": 28,
+      "section": "kinh_te_vi_mo",
+      "character_count": 4183
+    },
+    {
+      "physical_page": 47,
+      "printed_page": 29,
+      "section": "kinh_te_vi_mo",
+      "character_count": 1760
+    },
+    {
+      "physical_page": 48,
+      "printed_page": 30,
+      "section": "giao_duc_dai_hoc",
+      "character_count": 67
+    },
+    {
+      "physical_page": 49,
+      "printed_page": 31,
+      "section": "giao_duc_dai_hoc",
+      "character_count": 2684
+    },
+    {
+      "physical_page": 50,
+      "printed_page": 32,
+      "section": "giao_duc_dai_hoc",
+      "character_count": 2869
+    },
+    {
+      "physical_page": 51,
+      "printed_page": 33,
+      "section": "giao_duc_dai_hoc",
+      "character_count": 3211
+    },
+    {
+      "physical_page": 52,
+      "printed_page": 34,
+      "section": "giao_duc_dai_hoc",
+      "character_count": 3422
+    },
+    {
+      "physical_page": 53,
+      "printed_page": 35,
+      "section": "giao_duc_dai_hoc",
+      "character_count": 1489
+    },
+    {
+      "physical_page": 54,
+      "printed_page": 36,
+      "section": "giao_duc_dai_hoc",
+      "character_count": 3986
+    },
+    {
+      "physical_page": 55,
+      "printed_page": 37,
+      "section": "giao_duc_dai_hoc",
+      "character_count": 2257
+    },
+    {
+      "physical_page": 56,
+      "printed_page": 38,
+      "section": "giao_duc_dai_hoc",
+      "character_count": 2376
+    },
+    {
+      "physical_page": 57,
+      "printed_page": 39,
+      "section": "giao_duc_dai_hoc",
+      "character_count": 3152
+    },
+    {
+      "physical_page": 58,
+      "printed_page": 40,
+      "section": "giao_duc_dai_hoc",
+      "character_count": 3609
+    },
+    {
+      "physical_page": 59,
+      "printed_page": 41,
+      "section": "giao_duc_dai_hoc",
+      "character_count": 1540
+    },
+    {
+      "physical_page": 60,
+      "printed_page": 42,
+      "section": "giao_duc_dai_hoc",
+      "character_count": 1949
+    },
+    {
+      "physical_page": 61,
+      "printed_page": 43,
+      "section": "giao_duc_dai_hoc",
+      "character_count": 4438
+    },
+    {
+      "physical_page": 62,
+      "printed_page": 44,
+      "section": "giao_duc_dai_hoc",
+      "character_count": 3982
+    },
+    {
+      "physical_page": 63,
+      "printed_page": 45,
+      "section": "giao_duc_dai_hoc",
+      "character_count": 2391
+    },
+    {
+      "physical_page": 64,
+      "printed_page": 46,
+      "section": "phu_luc",
+      "character_count": 3371
+    }
+  ]
+}

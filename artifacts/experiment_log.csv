@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed_size,800,100,"document_id,source,page,section",none,gemini-embedding-001 (768d),Fixed-size windows keep uniform chunk size but may slice semantic sentences.,11/15 (73.33%),15/15 (100.0%),4/5 (80.0%),5/5 (100.0%),chunks=230; ingest_time=225.17s; model=gemini-embedding-001 (768d)
+B,by_paragraph,1000,0,"document_id,source,page,section",none,gemini-embedding-001 (768d),Structure-aware paragraph chunking preserves coherent semantic units.,8/15 (53.33%),15/15 (100.0%),5/5 (100.0%),5/5 (100.0%),chunks=231; ingest_time=228.42s; model=gemini-embedding-001 (768d)
+C,by_paragraph,1000,0,"document_id,source,page,section",section,gemini-embedding-001 (768d),Reusing B chunks with metadata filtering narrows search scope for targeted questions.,9/15 (60.0%),15/15 (100.0%),5/5 (100.0%),5/5 (100.0%),chunks=231; ingest_time=0.00s; model=gemini-embedding-001 (768d)

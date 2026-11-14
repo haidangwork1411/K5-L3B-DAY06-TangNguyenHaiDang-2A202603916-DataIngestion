@@ -1,0 +1,232 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Sau thời gian bao lâu kể từ cuộc khủng hoảng COVID-19 thì các cú sốc kinh tế mới lại phủ bóng đen lên nền kinh tế toàn cầu?",
+    "expected_answer": "Sau hai năm",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 11,
+    "evidence_quote": "Sau hai năm khủng hoảng COVID-19, các cú sốc \nkinh tế mới đang làm gia tăng bất định và phủ bóng \nđen lên nền kinh tế toàn cầu.",
+    "filter": null
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Vị thế kinh tế đối ngoại của Việt Nam vẫn được duy trì vững chắc dù cán cân vãng lai xấu đi là nhờ yếu tố nào?",
+    "expected_answer": "Nhờ giải ngân vốn đầu tư trực tiếp nước ngoài (FDI) gia tăng",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 12,
+    "evidence_quote": "Mặc dù cán cân vãng lai xấu đi, vị thế kinh tế đối \nngoại vẫn được duy trì vững chắc nhờ giải ngân \nvốn đầu tư trực tiếp nước ngoài (FDI) gia tăng.",
+    "filter": null
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Vào cuối năm 2021, tỷ lệ dân số Việt Nam đã được tiêm vắc-xin COVID-19 đầy đủ là bao nhiêu phần trăm?",
+    "expected_answer": "82,4%",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 20,
+    "evidence_quote": "Vào cuối năm 2021, đến 82,4% dân số Việt Nam đã được tiêm vắc-xin đầy đủ, 43% đã \nđược tiêm một mũi",
+    "filter": null
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Tỷ lệ tiêm chủng vắc-xin cao đã mang lại điều kiện thuận lợi gì cho nền kinh tế Việt Nam sau đợt giãn cách xã hội quý III/2021?",
+    "expected_answer": "Tạo điều kiện thuận lợi cho việc mở cửa lại nền kinh tế Việt Nam",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 20,
+    "evidence_quote": "Tỷ lệ tiêm vắc-xin cao tạo điều kiện thuận lợi cho việc mở cửa lại nền kinh tế Việt Nam sau đợt giãn cách \nxã hội quý III/2021.",
+    "filter": null
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Theo khảo sát của Ngân hàng Thế giới từ tháng 01 đến tháng 03/2022, tỷ lệ doanh nghiệp quay trở lại sản xuất kinh doanh đạt bao nhiêu phần trăm?",
+    "expected_answer": "92,6%",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 24,
+    "evidence_quote": "tỷ lệ doanh nghiệp quay trở lại sản xuất kinh \ndoanh đạt 92,6%, mức cao nhất kể từ giai đoạn tháng 9-10/2020",
+    "filter": {
+      "section": "kinh_te_vi_mo"
+    }
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Trong quý II năm 2022, số lượng lao động có việc làm tại Việt Nam tăng bao nhiêu phần trăm so với cùng kỳ năm trước?",
+    "expected_answer": "Tăng 1,4%",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 27,
+    "evidence_quote": "đến quý II/2022, số lượng lao động có việc làm tăng 1,4% so với cùng kỳ năm trước, đạt mức trước đại dịch",
+    "filter": null
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Cán cân vãng lai của Việt Nam ghi nhận mức thâm hụt bao nhiêu trong quý I năm 2022?",
+    "expected_answer": "Thâm hụt 1,5 tỷ USD",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 29,
+    "evidence_quote": "Cán cân vãng lai ghi \nnhận thâm hụt 1,5 tỷ USD trong quý I/2022 và tình trạng này dự kiến sẽ tiếp diễn trong quý II.",
+    "filter": null
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Trong nửa đầu năm 2022, tốc độ tăng trưởng xuất khẩu và nhập khẩu hàng hóa theo giá hiện hành của Việt Nam lần lượt đạt mức bao nhiêu?",
+    "expected_answer": "Xuất khẩu tăng 17,4% và nhập khẩu tăng 15,7%",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 31,
+    "evidence_quote": "Xuất khẩu và nhập khẩu hàng hóa tăng lần lượt 17,4% và 15,7% theo giá hiện hành",
+    "filter": null
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Tình trạng tăng giá lương thực, thực phẩm và nhiên liệu tại Việt Nam ảnh hưởng nhiều hơn đến mức sống của nhóm hộ gia đình nào?",
+    "expected_answer": "Các hộ gia đình có thu nhập cao hơn",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 38,
+    "evidence_quote": "Hộp 1.1. Giá lương thực, thực phẩm và nhiên liệu gia tăng ở Việt Nam đang ảnh hưởng nhiều hơn đến đến mức \nsống của các hộ gia đình có thu nhập cao hơn.",
+    "filter": null
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "type": "dieu_kien",
+    "question": "Theo Nghị định 126/2020/NĐ-CP, quy định tỷ lệ tối thiểu của tổng số thuế TNDN tạm nộp trong 3 quý đầu năm so với tổng nghĩa vụ thuế cả năm là bao nhiêu?",
+    "expected_answer": "Không được thấp hơn 75%",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 41,
+    "evidence_quote": "quy định rằng tổng số thuế TNDN tạm nộp trong 3 \nquý đầu năm (đến hạn vào cuối tháng 10) không được thấp hơn 75% so với tổng nghĩa vụ thuế TNDN cả",
+    "filter": {
+      "section": "kinh_te_vi_mo"
+    }
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Trong Bảng 1.2, Ngân hàng Thế giới dự báo tốc độ tăng trưởng GDP của Việt Nam năm 2022 đạt bao nhiêu phần trăm?",
+    "expected_answer": "7,5%",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 45,
+    "evidence_quote": "Tăng tưởng GDP (%) 7,2 2,9 2,6 7,5 6,7 6,5",
+    "filter": null
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Chiến lược phát triển kinh tế xã hội giai đoạn 2021-2030 đặt mục tiêu đưa Việt Nam trở thành quốc gia có mức thu nhập nào?",
+    "expected_answer": "Nền kinh tế thu nhập trung bình cao",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 49,
+    "evidence_quote": "Chiến lược phát triển kinh tế xã hội giai đoạn 2021-2030 đặt mục tiêu đưa Việt Nam trở thành nền kinh tế \nthu nhập trung bình cao.",
+    "filter": null
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "type": "dieu_kien",
+    "question": "Việc cắt giảm chỉ tiêu quy mô tuyển sinh đại học tại Việt Nam trước đây được thực hiện nhằm mục đích gì?",
+    "expected_answer": "Nhằm kiểm soát tuyển sinh vào các trường đại học hoạt động chưa tốt",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 51,
+    "evidence_quote": "Mặt khác, chỉ tiêu tuyển sinh bị giảm nhằm kiểm soát tuyển sinh vào các trường đại học hoạt \nđộng chưa tốt, dẫn đến tổng số lượng tuyển sinh bị chững lại.",
+    "filter": null
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Hệ thống giáo dục đại học của Việt Nam đạt kết quả chưa được như mong đợi xuất phát từ những nguyên nhân nào?",
+    "expected_answer": "Do nguyên nhân ở cả yếu tố cung và cầu",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 54,
+    "evidence_quote": "Hệ thống giáo dục đại học ở Việt Nam đạt kết quả chưa được như mong muốn có thể do nguyên nhân ở cả \nyếu tố cung và cầu.",
+    "filter": {
+      "section": "giao_duc_dai_hoc"
+    }
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Theo phân tích, yếu tố cầu liên quan đến những trở ngại kinh tế nào đối với người học đại học tại Việt Nam?",
+    "expected_answer": "Chi phí cơ hội cao và chi phí tài chính gia tăng, lợi ích kinh tế giảm dần",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 54,
+    "evidence_quote": "Yếu tố cầu liên quan đến chi phí cơ hội cao và chi phí tài chính để theo học giáo dục đại \nhọc gia tăng, cũng như lợi ích kinh tế của giáo dục giảm dần.",
+    "filter": null
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "type": "truc_tiep",
+    "question": "Sau khi tính đến sự khác biệt về thời lượng học tập, số năm đi học bình quân của Việt Nam là bao nhiêu và xếp thứ mấy trong khối ASEAN?",
+    "expected_answer": "10,2 năm, chỉ đứng sau Singapore",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 15,
+    "evidence_quote": "số năm đi \nhọc bình quân của Việt Nam là 10,2 năm, chỉ đứng \nsau Sing-ga-po trong Hiệp hội các Quốc gia Đông \nNam Á (ASEAN)",
+    "filter": null
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "type": "truc_tiep",
+    "question": "Trong quý I năm 2022, tỷ lệ doanh nghiệp được phỏng vấn cho biết đã tuyển dụng thêm lao động mới là bao nhiêu?",
+    "expected_answer": "Cứ năm doanh nghiệp thì có một doanh nghiệp (20%)",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 24,
+    "evidence_quote": "Cứ năm doanh nghiệp được \nphỏng vấn thì có một doanh nghiệp cho biết đã tuyển dụng lao động mới trong quý I/2022",
+    "filter": null
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "type": "truc_tiep",
+    "question": "Gói hỗ trợ lãi suất cho các ngành dịch vụ bị ảnh hưởng nặng nề bởi đại dịch có tổng quy mô bao nhiêu và có hiệu lực đến khi nào?",
+    "expected_answer": "40 nghìn tỷ đồng (tương đương 1,7 tỷ USD hay 0,5% GDP) và có hiệu lực đến cuối năm 2023",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 43,
+    "evidence_quote": "Biện pháp hỗ trợ này có tổng quy mô 40 \nnghìn tỷ đồng (tương đương 1,7 tỷ USD hay 0,5% GDP) và sẽ có hiệu lực đến cuối năm 2023.",
+    "filter": {
+      "section": "kinh_te_vi_mo"
+    }
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "type": "dieu_kien",
+    "question": "Hai bộ ngành nào của Việt Nam đang cùng phụ trách quản lý nhà nước đối với lĩnh vực giáo dục đại học và đào tạo nghề?",
+    "expected_answer": "Bộ Giáo dục và Đào tạo và Bộ Lao động, Thương binh và Xã hội",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 61,
+    "evidence_quote": "có hai bộ khác nhau (Bộ Giáo dục và Đào tạo và Bộ Lao động, Thương binh và Xã hội) phụ trách quản lý lĩnh vực \ngiáo dục đại học và lĩnh vực dạy nghề và kỹ thuật (cao đẳng)",
+    "filter": null
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "type": "truc_tiep",
+    "question": "Tại Hàn Quốc, tỷ lệ người dân trong độ tuổi từ 24 đến 35 đã hoàn thành chương trình giáo dục bậc cao là bao nhiêu phần trăm?",
+    "expected_answer": "70%",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 64,
+    "evidence_quote": "Tại Hàn Quốc, 70% người dân ở độ tuổi từ 24 đến 35 đã hoàn thành chương trình giáo dục bậc cao",
+    "filter": {
+      "section": "phu_luc"
+    }
+  }
+]

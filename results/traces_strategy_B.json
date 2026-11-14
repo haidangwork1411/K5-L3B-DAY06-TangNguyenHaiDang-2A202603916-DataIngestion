@@ -1,0 +1,1572 @@
+[
+  {
+    "question_id": "q01",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Sau thời gian bao lâu kể từ cuộc khủng hoảng COVID-19 thì các cú sốc kinh tế mới lại phủ bóng đen lên nền kinh tế toàn cầu?",
+    "expected_answer": "Sau hai năm",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 11,
+    "evidence_quote": "Sau hai năm khủng hoảng COVID-19, các cú sốc \nkinh tế mới đang làm gia tăng bất định và phủ bóng \nđen lên nền kinh tế toàn cầu.",
+    "filter": null,
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "matching_rank": 3,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p19_b001",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 19,
+        "score": 0.7369938194937715,
+        "metadata": {
+          "section": "kinh_te_vi_mo",
+          "is_useful": true,
+          "char_count": 999,
+          "chunk_index": 1,
+          "printed_page": 1,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": false,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "GIÁO DỤC ĐỂ TĂNG TRƯỞNG \n1\nGIỚI THIỆU \nKhi cuộc khủng hoảng COVID-19 dường như đang suy yếu sau hai năm thì những cú sốc kinh tế mới lại \nphủ bóng đen lên nền kinh tế toàn cầu, làm gia tăng bất định về hướng phục hồi trong ngắn hạn và trung \nhạn. Cú sốc cung liên quan đến cuộc chiến tại U-crai-na được dự báo sẽ làm suy yếu đà phục hồi kinh tế \nvốn đầy hứa hẹn trên khắp thế giới, làm dấy lên nỗi ám ảnh lạm phát đình đốn ( stagflation) tại các quốc \ngia phát triển, dẫn đến điều kiện huy động vốn thắt chặt trên các thị trường tài chính toàn cầu. Các biện \npháp được thực hiện tại Trung Quốc nhằm kiểm soát sự lây lan biến chủng Omicron của dịch COVID-19 \ncũng ảnh hưởng đến hoạt động của các chuỗi giá trị toàn cầu và cả tăng trưởng kinh tế. Kết quả là tăng \ntrưởng kinh tế toàn cầu năm 2022 hiện được dự báo chỉ đạt tốc độ 2,9%, giảm 1,2 điểm phần trăm so với \ndự báo đưa ra trước đó vào tháng 1/2022 (Hình 1.1). 5 Tăng trưởng dự kiến sẽ giảm còn 2,5% ở cả Hoa Kỳ \nvà khu vực đồng euro trong năm"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p19_b003",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 19,
+        "score": 0.7315399387346758,
+        "metadata": {
+          "section": "kinh_te_vi_mo",
+          "is_useful": true,
+          "char_count": 795,
+          "chunk_index": 3,
+          "printed_page": 1,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": false,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "Rủi ro gia tăng đe dọa viễn cảnh phục hồi kinh tế trên toàn cầu. Các biến chủng COVID-19 mới tiếp tục là \nmột rủi ro nghiêm trọng, và khi mọi người trên khắp thế giới trở nên kiệt sức với các biện pháp kiểm soát \ndịch thì tình trạng “mệt mỏi” này có thể cản trở những nỗ lực kiểm soát sự lây lan. Gián đoạn chuỗi cung \nứng liên quan đến COVID-19 tiếp tục diễn ra trên bình diện quốc tế, đẩy giá cả lên cao và làm thay đổi xu \nhướng của các chuỗi giá trị toàn cầu (GVC), yếu tố có thể ảnh hưởng đến hoạt động sản xuất và năng lực \ncạnh tranh của các quốc gia tham gia. Thêm vào đó, căng thẳng chính trị làm dấy lên những thắc mắc về \nlợi ích và tương lai của toàn cầu hóa, với kết quả là các khu vực đang tách ra khỏi các quan hệ kinh tế - ít \nnhất trong ngắn hạn và ở một số lĩnh vực chiến lược."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p11_b001",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 11,
+        "score": 0.7185130112780231,
+        "metadata": {
+          "section": "tong_quan",
+          "is_useful": true,
+          "char_count": 1000,
+          "chunk_index": 1,
+          "printed_page": "roman_11",
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": true,
+        "is_hit": true,
+        "text": "GIÁO DỤC ĐỂ TĂNG TRƯỞNG \nxi\nChương 1. Diễn biến kinh tế gần đây \nvà triển vọng\nMôi trường kinh tế toàn cầu đang trở nên thách \nthức hơn \nSau hai năm khủng hoảng COVID-19, các cú sốc \nkinh tế mới đang làm gia tăng bất định và phủ bóng \nđen lên nền kinh tế toàn cầu. Cú sốc cung liên quan \nđến cuộc chiến tại U-crai-na dự báo sẽ làm chậm \nquá trình phục hồi kinh tế ở nhiều quốc gia và dấy \nlên nỗi ám ảnh về lạm phát đình đốn ( stagflation) \ntại các quốc gia phát triển, dẫn đến điều kiện huy \nđộng vốn thắt chặt trên các thị trường tài chính \ntoàn cầu. Các biện pháp kiểm soát sự lây lan biến \nthể Omicron của COVID-19 tại Trung Quốc khiến \ncho triển vọng tăng trưởng yếu đi và làm gián đoạn \ncác chuỗi giá trị toàn cầu. Chính vì vậy, tốc độ tăng \ntrưởng kinh tế toàn cầu năm 2022 hiện được dự \nbáo chỉ đạt 2,9%. 1 Các đối tác thương mại lớn của \nViệt Nam đều bị tác động bởi những cú sốc nêu \ntrên, trong đó tăng trưởng kinh tế của Hoa Kỳ và \nkhu vực đồng Euro được dự báo đạt 2,5% còn Trung \nQuốc d"
+      }
+    ],
+    "strategy": "B",
+    "filter_applied": null
+  },
+  {
+    "question_id": "q02",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Vị thế kinh tế đối ngoại của Việt Nam vẫn được duy trì vững chắc dù cán cân vãng lai xấu đi là nhờ yếu tố nào?",
+    "expected_answer": "Nhờ giải ngân vốn đầu tư trực tiếp nước ngoài (FDI) gia tăng",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 12,
+    "evidence_quote": "Mặc dù cán cân vãng lai xấu đi, vị thế kinh tế đối \nngoại vẫn được duy trì vững chắc nhờ giải ngân \nvốn đầu tư trực tiếp nước ngoài (FDI) gia tăng.",
+    "filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "matching_rank": 1,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p12_b001",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 12,
+        "score": 0.7535439251796716,
+        "metadata": {
+          "section": "tong_quan",
+          "is_useful": true,
+          "char_count": 773,
+          "chunk_index": 1,
+          "printed_page": "roman_12",
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": true,
+        "is_hit": true,
+        "text": "GIÁO DỤC ĐỂ TĂNG TRƯỞNG \nxii\nKhu vực kinh tế đối ngoại tiếp tục thể hiện khả năng \nchống chịu \nMặc dù cán cân vãng lai xấu đi, vị thế kinh tế đối \nngoại vẫn được duy trì vững chắc nhờ giải ngân \nvốn đầu tư trực tiếp nước ngoài (FDI) gia tăng. Tài \nkhoản vãng lai ghi nhận thâm hụt ở mức 1,5 tỷ US$ \nvào Q1/2022, tương đương 1,7% GDP của quý, chủ \nyếu do tăng giá năng lượng và hàng hóa trung gian.\n\nTrong khi đó, giải ngân vốn đầu tư trực tiếp nước \nngoài (FDI) tăng đến 10 tỷ US$ trong nửa đầu năm \n2022, mức cao nhất trong vòng 5 năm gần đây. Tỷ \ngiá hối đoái danh nghĩa của Đồng Việt Nam so với \nĐô la Mỹ tương đối ổn định nhưng khi bám theo \nđồng đô-la Mỹ mạnh lên, đồng VND cũng tăng giá \nso với đồng tiền của các đối tác thương mại khác, \nbao gồm EURO và Nhân dân tệ."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p29_b001",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 29,
+        "score": 0.7457841952046489,
+        "metadata": {
+          "section": "kinh_te_vi_mo",
+          "is_useful": true,
+          "char_count": 1000,
+          "chunk_index": 1,
+          "printed_page": 11,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": false,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "GIÁO DỤC ĐỂ TĂNG TRƯỞNG \n11\nKhu vực kinh tế đối ngoại tiếp tục thể hiện khả năng chống chịu \nVị thế kinh tế đối ngoại được duy trì vững chắc cho dù cán cân vãng lai đang xấu đi. Cán cân vãng lai ghi \nnhận thâm hụt 1,5 tỷ USD trong quý I/2022 và tình trạng này dự kiến sẽ tiếp diễn trong quý II. Thâm hụt cán \ncân vãng lai chủ yếu do cán cân thương mại hàng hóa và dịch vụ phi yếu tố xấu đi, giảm từ thặng dư 1,8 tỷ \nUSD trong quý I/2021 sang thặng dư 0,9 tỷ USD trong quý I/2022 và thâm hụt 1,8 tỷ USD trong quý II do tỷ \ngiá thương mại liên tục suy yếu (Hình 1.18).7 Tỷ giá thương mại giảm 3,1% trong quý I/2022 và 2,6% trong \nquý II, càng làm trầm trọng thêm tình trạng xấu đi đã ghi nhận trong hai quý cuối năm 2021 (Hình 1.21). 8 \nXu hướng này phản ánh mức độ phụ thuộc cao của Việt Nam vào nguyên vật liệu nhập khẩu kết hợp với giá \nhàng hóa thế giới tăng cao. Giá cả tăng cao ban đầu do sự phục hồi mạnh mẽ vượt kỳ vọng của nền kinh \ntế toàn cầu sau đại dịch năm 2021 khi những hạn chế trong ch"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p45_b003",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 45,
+        "score": 0.7184044587214986,
+        "metadata": {
+          "section": "kinh_te_vi_mo",
+          "is_useful": true,
+          "char_count": 772,
+          "chunk_index": 3,
+          "printed_page": 27,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": false,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "Cán cân vãng lai được kỳ vọng sẽ đạt thặng dư ở mức 0,2-0,6% GDP trong trung hạn nhờ khả năng chống \nchịu của xuất khẩu hàng hóa, sự phục hồi du lịch của khách quốc tế, và kiều hối mạnh mẽ. Hiện nay, khi \ntriển vọng kinh tế toàn cầu năm 2023 được kỳ vọng sẽ chững lại, với tăng trưởng được dự báo quanh mức \n3% trong bối cảnh giá hàng hóa thế giới tăng cao và chính sách tiền tệ thắt chặt được kỳ vọng sẽ tiếp diễn \nvà kéo dài sang đầu năm 2023. Tuy nhiên, khi cú sốc giá hàng hóa thế giới hạ nhiệt, rủi ro lạm phát và lạm \nphát đình đốn toàn cầu lắng xuống, và khi Trung Quốc mở cửa lại nền kinh tế, thì kim ngạch xuất khẩu của \nViệt Nam được kỳ vọng sẽ lấy lại đà tăng trưởng. Trong thời gian này, kiều hối được kỳ vọng sẽ duy trì đóng \ngóp đáng kể cho cán cân vãng lai."
+      }
+    ],
+    "strategy": "B",
+    "filter_applied": null
+  },
+  {
+    "question_id": "q03",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Vào cuối năm 2021, tỷ lệ dân số Việt Nam đã được tiêm vắc-xin COVID-19 đầy đủ là bao nhiêu phần trăm?",
+    "expected_answer": "82,4%",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 20,
+    "evidence_quote": "Vào cuối năm 2021, đến 82,4% dân số Việt Nam đã được tiêm vắc-xin đầy đủ, 43% đã \nđược tiêm một mũi",
+    "filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "matching_rank": 1,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p20_b001",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 20,
+        "score": 0.7032829582844575,
+        "metadata": {
+          "section": "kinh_te_vi_mo",
+          "is_useful": true,
+          "char_count": 740,
+          "chunk_index": 1,
+          "printed_page": 2,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": true,
+        "is_hit": true,
+        "text": "GIÁO DỤC ĐỂ TĂNG TRƯỞNG \n2\nTỷ lệ tiêm vắc-xin cao tạo điều kiện thuận lợi cho việc mở cửa lại nền kinh tế Việt Nam sau đợt giãn cách \nxã hội quý III/2021. Vào cuối năm 2021, đến 82,4% dân số Việt Nam đã được tiêm vắc-xin đầy đủ, 43% đã \nđược tiêm một mũi, nhiều biện pháp hạn chế đã được gỡ bỏ (Hình 1.3). Xu hướng đi lại tiếp tục cải thiện, \ncho dù có một đợt lây nhiễm mạnh vào tháng 03 và tháng 04/2022 có lẽ được hạ nhiệt vào đầu tháng \n05 khi số ca nhiễm chính thức giảm mạnh. Đến cuối tháng 06/2022, chỉ có chưa đến 1.000 ca nhiễm \nCOVID-19 mới được ghi nhận chính thức mỗi ngày (Hình 1.2). Bên cạnh đó, số lượt khách đến các nhà \nhàng, quán cà phê, trung tâm mua sắm, và các cơ sở bán lẻ, giải trí khác đã quay về mức trước đại dịch."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p11_b003",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 11,
+        "score": 0.6210942076903926,
+        "metadata": {
+          "section": "tong_quan",
+          "is_useful": true,
+          "char_count": 942,
+          "chunk_index": 3,
+          "printed_page": "roman_11",
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": false,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "Bên cạnh đó, lạm phát đã tăng mạnh ở cả nền kinh \ntế phát triển, cũng như các nền kinh tế đang phát \ntriển và thị trường mới nổi (EMDE), với trên 75% các \nquốc gia ở cả hai nhóm đều đã vượt chỉ tiêu lạm \nphát của họ.\n\nBất chấp những cú sốc và tình trạng bất định gia tăng \ngần đây, nền kinh tế Việt Nam vẫn đang phục hồi \nNền kinh tế Việt Nam đang trên lộ trình phục hồi \nsau 2 năm bị tổn thương. Sau đợt giãn cách xã \nhội nghiêm ngặt và GDP sụt giảm mạnh vào quý \nIII/2021, nền kinh tế bắt đầu phục hồi trở lại từ \nmùa thu năm 2021 nhờ tỷ lệ tiêm vắc-xin cao tạo \nđiều kiện cho quốc gia mở cửa lại. Đến cuối tháng \n12/2021, khoảng 80% dân số đã được tiêm vác-\nxin đầy đủ, các biện pháp hạn chế đi lại dần được \ngỡ bỏ. Nhờ vậy, nền kinh tế phục hồi nhanh chóng, \ntăng trưởng với tốc độ 5,2% 2 trong quý IV/2021, \n5,1% trong quý I/2022 và 7,7% trong quý II/2022.\n\n1 Ngân hàng Thế giới. 2022. Báo cáo Triển vọng Kinh tế Toàn cầu – Tháng 6/2022."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p20_b003",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 20,
+        "score": 0.6172402362010537,
+        "metadata": {
+          "section": "kinh_te_vi_mo",
+          "is_useful": true,
+          "char_count": 206,
+          "chunk_index": 3,
+          "printed_page": 2,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "7-22 T1-21 T7-21 T1-22 T7-22\nNguồn: Our World in Data\nGhi chú: LHS = trục tung bên trái\nNguồn: Báo cáo xu hướng di chuyển của cộng đồng \ntrong đại dịch COVID-19 của Google \nGhi chú: LHS = trục tung bên trái"
+      }
+    ],
+    "strategy": "B",
+    "filter_applied": null
+  },
+  {
+    "question_id": "q04",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Tỷ lệ tiêm chủng vắc-xin cao đã mang lại điều kiện thuận lợi gì cho nền kinh tế Việt Nam sau đợt giãn cách xã hội quý III/2021?",
+    "expected_answer": "Tạo điều kiện thuận lợi cho việc mở cửa lại nền kinh tế Việt Nam",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 20,
+    "evidence_quote": "Tỷ lệ tiêm vắc-xin cao tạo điều kiện thuận lợi cho việc mở cửa lại nền kinh tế Việt Nam sau đợt giãn cách \nxã hội quý III/2021.",
+    "filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "matching_rank": 1,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p20_b001",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 20,
+        "score": 0.7682098659105853,
+        "metadata": {
+          "section": "kinh_te_vi_mo",
+          "is_useful": true,
+          "char_count": 740,
+          "chunk_index": 1,
+          "printed_page": 2,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": true,
+        "is_hit": true,
+        "text": "GIÁO DỤC ĐỂ TĂNG TRƯỞNG \n2\nTỷ lệ tiêm vắc-xin cao tạo điều kiện thuận lợi cho việc mở cửa lại nền kinh tế Việt Nam sau đợt giãn cách \nxã hội quý III/2021. Vào cuối năm 2021, đến 82,4% dân số Việt Nam đã được tiêm vắc-xin đầy đủ, 43% đã \nđược tiêm một mũi, nhiều biện pháp hạn chế đã được gỡ bỏ (Hình 1.3). Xu hướng đi lại tiếp tục cải thiện, \ncho dù có một đợt lây nhiễm mạnh vào tháng 03 và tháng 04/2022 có lẽ được hạ nhiệt vào đầu tháng \n05 khi số ca nhiễm chính thức giảm mạnh. Đến cuối tháng 06/2022, chỉ có chưa đến 1.000 ca nhiễm \nCOVID-19 mới được ghi nhận chính thức mỗi ngày (Hình 1.2). Bên cạnh đó, số lượt khách đến các nhà \nhàng, quán cà phê, trung tâm mua sắm, và các cơ sở bán lẻ, giải trí khác đã quay về mức trước đại dịch."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p11_b003",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 11,
+        "score": 0.7108946233193637,
+        "metadata": {
+          "section": "tong_quan",
+          "is_useful": true,
+          "char_count": 942,
+          "chunk_index": 3,
+          "printed_page": "roman_11",
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": false,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "Bên cạnh đó, lạm phát đã tăng mạnh ở cả nền kinh \ntế phát triển, cũng như các nền kinh tế đang phát \ntriển và thị trường mới nổi (EMDE), với trên 75% các \nquốc gia ở cả hai nhóm đều đã vượt chỉ tiêu lạm \nphát của họ.\n\nBất chấp những cú sốc và tình trạng bất định gia tăng \ngần đây, nền kinh tế Việt Nam vẫn đang phục hồi \nNền kinh tế Việt Nam đang trên lộ trình phục hồi \nsau 2 năm bị tổn thương. Sau đợt giãn cách xã \nhội nghiêm ngặt và GDP sụt giảm mạnh vào quý \nIII/2021, nền kinh tế bắt đầu phục hồi trở lại từ \nmùa thu năm 2021 nhờ tỷ lệ tiêm vắc-xin cao tạo \nđiều kiện cho quốc gia mở cửa lại. Đến cuối tháng \n12/2021, khoảng 80% dân số đã được tiêm vác-\nxin đầy đủ, các biện pháp hạn chế đi lại dần được \ngỡ bỏ. Nhờ vậy, nền kinh tế phục hồi nhanh chóng, \ntăng trưởng với tốc độ 5,2% 2 trong quý IV/2021, \n5,1% trong quý I/2022 và 7,7% trong quý II/2022.\n\n1 Ngân hàng Thế giới. 2022. Báo cáo Triển vọng Kinh tế Toàn cầu – Tháng 6/2022."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p19_b004",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 19,
+        "score": 0.699161165051315,
+        "metadata": {
+          "section": "kinh_te_vi_mo",
+          "is_useful": true,
+          "char_count": 1000,
+          "chunk_index": 4,
+          "printed_page": 1,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": false,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "Nền kinh tế Việt Nam đang hồi lại sau hai năm tổn thương, nhưng phải đối mặt với những thách thức trong \nnước cũng như môi trường kinh tế đối ngoại bất lợi trong ngắn hạn và trung hạn. GDP của Việt Nam tăng \n2,9% trong năm 2020 và 2,6% trong năm 2021. Mặc dù tốc độ tăng trưởng như vậy thấp hơn nhiều so với \ntốc độ tăng bình quân 6,5 - 7% trong giai đoạn 2016-2019, nhưng Việt Nam vẫn là một trong số ít các quốc \ngia vẫn có khả năng tăng trưởng trong thời kỳ đại dịch. Nền kinh tế bật tăng trở lại trong quý IV/2021, với \ntốc độ tăng trưởng 5,2%, và tiếp đến là 5,1% trong quý I/2022, tương đương với hầu hết các quốc gia so \nsánh trong khu vực Đông Á. Sau đó, tăng trưởng gia tốc lên 7,7% trong quý II – tốc độ cao nhất trong một \nthập kỷ - nhờ khu vực công nghiệp chế tạo, chế biến có khả năng chống chịu và sự phục hồi vững chắc của \nkhu vực dịch vụ. Mặc dù vậy, tác động đối với người lao động và sinh kế của các hộ gia đình trong khủng \nhoảng vẫn nghiêm trọng và kéo dài, với khoảng 45% cho bi"
+      }
+    ],
+    "strategy": "B",
+    "filter_applied": null
+  },
+  {
+    "question_id": "q05",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Theo khảo sát của Ngân hàng Thế giới từ tháng 01 đến tháng 03/2022, tỷ lệ doanh nghiệp quay trở lại sản xuất kinh doanh đạt bao nhiêu phần trăm?",
+    "expected_answer": "92,6%",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 24,
+    "evidence_quote": "tỷ lệ doanh nghiệp quay trở lại sản xuất kinh \ndoanh đạt 92,6%, mức cao nhất kể từ giai đoạn tháng 9-10/2020",
+    "filter": {
+      "section": "kinh_te_vi_mo"
+    },
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "matching_rank": 2,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p11_b005",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 11,
+        "score": 0.8040341671343619,
+        "metadata": {
+          "section": "tong_quan",
+          "is_useful": true,
+          "char_count": 1000,
+          "chunk_index": 5,
+          "printed_page": "roman_11",
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": false,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "Các doanh nghiệp đang phục hồi nhưng còn yếu ớt\nKhi nền kinh tế được mở cửa trở lại trong quý \nIV/2021 và quý I/2022, các doanh nghiệp cho biết \nhoạt động sản xuất kinh doanh đã được khôi phục, \nnhưng cần thêm thời gian mới có thể phục hồi \nhoàn toàn. Khảo sát Đánh gia tác động đến doanh \nnghiệp lần thứ 5 do Ngân hàng Thế giới thực hiện \ntừ tháng 1 đến tháng 3/2022 cho thấy 92,6% doanh \nnghiệp trong khu vực chính thức đã quay trở lại \nhoạt động, và 20% doanh nghiệp cho biết có tuyển \nlao động mới trong quý I/2022. Mặc dù vậy, một số \ndoanh nghiệp vẫn phải đối mặt với thách thức. 44% \ndoanh nghiệp cho biết doanh số của họ vẫn giữ \nnguyên hoặc tốt hơn so với trước đại dịch trong giai \nđoạn tháng 01-03/2022, nhưng có 56% các doanh \nnghiệp khác cho biết doanh số của họ bị giảm \ntrong cùng kỳ. Tuy nhiên tình trạng thiếu lao động \ntrên diện rộng vẫn kéo dài đến tháng 03/2022, nhất \nlà đối với các doanh nghiệp trong ngành dịch vụ, \nngành công nghiệp chế tạo, chế biến và trên địa \nbàn thành ph"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p24_b001",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 24,
+        "score": 0.7759691434072614,
+        "metadata": {
+          "section": "kinh_te_vi_mo",
+          "is_useful": true,
+          "char_count": 1000,
+          "chunk_index": 1,
+          "printed_page": 6,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": true,
+        "is_hit": true,
+        "text": "GIÁO DỤC ĐỂ TĂNG TRƯỞNG \n6\nCác doanh nghiệp đang phục hồi nhưng còn yếu ớt \nKhi nền kinh tế mở cửa trở lại trong quý I/2022, các doanh nghiệp cho biết các hoạt động sản xuất kinh \ndoanh của họ cũng phục hồi. Khảo sát Đánh giá tác động tới doanh nghiệp lần thứ 5 của Ngân hàng Thế \ngiới được thực hiện từ tháng 01 đến tháng 03/2022 cho thấy tỷ lệ doanh nghiệp quay trở lại sản xuất kinh \ndoanh đạt 92,6%, mức cao nhất kể từ giai đoạn tháng 9-10/2020 (Hình 1.9). Tỷ lệ gia nhập ròng cũng tăng, \ntrong đó số doanh nghiệp giải thể từ tháng 01 đến tháng 3 năm 2022 thấp hơn nhiều so với cùng kỳ năm \n2021 và số doanh nghiệp đăng ký thành lập mới đạt mức cao nhất kể từ năm 2019. Tỷ lệ doanh nghiệp cho \nbiết gặp các vấn đề về chuỗi cung ứng cũng giảm. Khi nhu cầu hồi phục, doanh số bán hàng cũng phục hồi \ntrên cả nước. Tăng trưởng doanh số hàng tháng tăng 24 điểm phần trăm so với mức -39% được ghi nhận \nvào mùa thu năm 2021. Những khu vực và thành phố bị giãn cách xã hội gây ảnh hưởng nghiêm trọng \nh"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p25_b002",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 25,
+        "score": 0.721586855193166,
+        "metadata": {
+          "section": "kinh_te_vi_mo",
+          "is_useful": true,
+          "char_count": 1000,
+          "chunk_index": 2,
+          "printed_page": 7,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": false,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "năm 2019 (Hình 1.13). Chính vì vậy, dòng tiền ở nhiều doanh nghiệp chưa phục \nhồi về mức so với các kỳ khảo sát năm 2021; nếu không được tiếp cận nguồn tài chính bên ngoài, thời gian \nước tính trung bình mà các doanh nghiệp có thể tiếp tục chi trả toàn bộ chi phí và các khoản thanh toán \nvới dòng tiền hiện có là 36 tuần. Bên cạnh đó, mặc dù phần lớn doanh nghiệp cho biết đã quay lại hoạt \nđộng bình thường, nhưng một số doanh nghiệp sản xuất vẫn đang phải chịu gián đoạn chuỗi cung ứng \ntrong giai đoạn tháng 01-03/2022. Ví dụ 30% doanh nghiệp xuất khẩu cho biết phải hủy đơn hàng trong \nnhững tháng trước đó (từ tháng 12/2021 đến tháng 02/2022) do thiếu nguyên vật liệu đầu vào. Ngược lại, \nchỉ có 11% doanh nghiệp không xuất khẩu cho biết họ phải hủy đơn hàng. Các doanh nghiệp bị mất đơn \nhàng cũng cho biết doanh số của họ bị giảm khoảng 35%, chênh lệch đáng kể so với mức giảm doanh số \n23% của các doanh nghiệp không phải hủy đơn hàng. Đại dịch làm gián đoạn những nỗ lực tham gia vào \ncác c"
+      }
+    ],
+    "strategy": "B",
+    "filter_applied": null
+  },
+  {
+    "question_id": "q06",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Trong quý II năm 2022, số lượng lao động có việc làm tại Việt Nam tăng bao nhiêu phần trăm so với cùng kỳ năm trước?",
+    "expected_answer": "Tăng 1,4%",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 27,
+    "evidence_quote": "đến quý II/2022, số lượng lao động có việc làm tăng 1,4% so với cùng kỳ năm trước, đạt mức trước đại dịch",
+    "filter": null,
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "matching_rank": 3,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p27_b004",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 27,
+        "score": 0.7270673719568442,
+        "metadata": {
+          "section": "kinh_te_vi_mo",
+          "is_useful": true,
+          "char_count": 999,
+          "chunk_index": 4,
+          "printed_page": 9,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "Hình 1.15. Thị trường lao động \n% (NSA)\nHình 1.16. Cơ cấu việc làm theo khu vực \nchính thức và phi chính thức \n% tổng số việc làm (NSA)\n62\n64\n66\n68\n70\n72\n0\n2\n4\n6\n8\n10\nQ2-19 Q4-19 Q2-20 Q4-20 Q2-21 Q4-21 Q2-22\nThiếu việc làmThất nghiệp\nTham gia LLLĐ (LHS)\n20\n30\n40\n50\nQ3- 20 Q4- 20 Q1- 21 Q2- 21 Q3- 21 Q4- 21 Q1- 22 Q2- 22\nChính thứcPhi chính thức NLN Phi chính thức khác\nNguồn: TCTK và tính toán của cán bộ Ngân hàng Thế giới\nGhi chú: LLLĐ = Lực lượng lao động; LHS = trục tung bên \ntrái; NSA = không hiệu chỉnh mùa vụ\nNguồn: TCTK và tính toán của cán bộ Ngân hàng Thế giới\nGhi chú: NLN = nông, lâm, ngư nghiệp; NSA = không hiệu \nchỉnh mùa vụ\nNhững cải thiện trên thị trường lao động được phản ánh qua thu nhập bình quân phục hồi trong nửa đầu \nnăm 2022, cụ thể trong khu vực công nghiệp và khu vực dịch vụ. Sau khi giảm 12,4% trong quý III/2021 (so \nquý trước), thu nhập thực bình quân chỉ phục hồi với tốc độ 2,7% trong quý IV/2021(so quý trước), nhưng \nđã tăng tốc lên 18,8% trong quý I/2022 (so"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p11_b007",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 11,
+        "score": 0.7067497427800917,
+        "metadata": {
+          "section": "tong_quan",
+          "is_useful": true,
+          "char_count": 685,
+          "chunk_index": 7,
+          "printed_page": "roman_11",
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": false,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "Thị trường lao động cũng đang phục hồi và thu nhập \nđang tăng lên, nhưng tác động của cú sốc COVID-19 \nvẫn còn kéo dài \nTình hình thị trường lao động và thu nhập của hộ \ngia đình được cải thiện trong nửa đầu năm 2022.\n\nTỷ lệ có việc làm đã quay về mức trước đại dịch. Tỷ \nlệ tham gia thị trường lao động tăng nhẹ lên 68,5%, \nnhưng vẫn thấp hơn các mức trước đại dịch (71,3% \nvào Q4/2019). Trong khi thu nhập bình quân của hộ \ngia đình chuyển tăng 5,8% trong Q2/2022, nhưng \nmột số hộ gia đình vẫn tiếp tục cảm nhận hiệu \nứng của cú sốc COVID-19. Ví dụ, tính đến tháng \n4/2022, khoảng 1/4 số hộ gia đình ở khu vực thành \nthị (24,7%) cho biết thu nhập thấp hơn so với cùng \nkỳ năm trước."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p27_b001",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 27,
+        "score": 0.7054616398751503,
+        "metadata": {
+          "section": "kinh_te_vi_mo",
+          "is_useful": true,
+          "char_count": 746,
+          "chunk_index": 1,
+          "printed_page": 9,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": true,
+        "is_hit": true,
+        "text": "GIÁO DỤC ĐỂ TĂNG TRƯỞNG \n9\nThị trường lao động đang phục hồi, nhưng một số hộ gia đình vẫn còn bị ảnh hưởng bởi \ntác động kéo dài của cú sốc \nTình hình thị trường lao động đã cải thiện khi nền kinh tế phục hồi sau đợt giãn cách vào quý III/2021. Tính \nđến quý II/2022, số lượng lao động có việc làm tăng 1,4% so với cùng kỳ năm trước, đạt mức trước đại dịch.\n\nTỷ lệ thất nghiệp giảm từ mức đỉnh 3,7% trong quý III/2021 xuống còn 2,1%, tương đương với các tỷ lệ trước \nđại dịch (Hình 1.15). Tỷ lệ tham gia thị trường lao động đã nhích lên nhưng chưa đạt mức được ghi nhận \ncùng kỳ năm trước, trong khi tỷ lệ thiếu việc làm giảm xuống mức 1,9% - tháng giảm thứ 3 liên tiếp từ quý \nIII/2021 - nhưng vẫn cao một chút hơn so với các kỳ trước đại dịch."
+      }
+    ],
+    "strategy": "B",
+    "filter_applied": null
+  },
+  {
+    "question_id": "q07",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Cán cân vãng lai của Việt Nam ghi nhận mức thâm hụt bao nhiêu trong quý I năm 2022?",
+    "expected_answer": "Thâm hụt 1,5 tỷ USD",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 29,
+    "evidence_quote": "Cán cân vãng lai ghi \nnhận thâm hụt 1,5 tỷ USD trong quý I/2022 và tình trạng này dự kiến sẽ tiếp diễn trong quý II.",
+    "filter": null,
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "matching_rank": 2,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p29_b002",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 29,
+        "score": 0.7633557942708065,
+        "metadata": {
+          "section": "kinh_te_vi_mo",
+          "is_useful": true,
+          "char_count": 501,
+          "chunk_index": 2,
+          "printed_page": 11,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "u sau đại dịch năm 2021 khi những hạn chế trong chuỗi cung ứng kéo dài dai dẳng, và sau đó \ncàng trở nên trầm trọng hơn do cuộc chiến tranh tại U-crai-na nổ ra từ tháng 2/2022. Thâm hụt cán cân \nvãng lai một phần được bù đắp bởi dòng vốn đầu tư trực tiếp nước ngoài mạnh mẽ, cấu phần chính trong \ncán cân tài chính (Hình 1.19), từ đó giúp giảm nhẹ tác động đến cán cân thanh toán quốc tế. Tuy nhiên, dự \ntrữ ngoại hối vẫn giảm 1,1 tỷ USD trong quý I, xuống mức 108,9 tỷ USD vào thời điểm cuối tháng 3."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p29_b001",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 29,
+        "score": 0.7588053768468636,
+        "metadata": {
+          "section": "kinh_te_vi_mo",
+          "is_useful": true,
+          "char_count": 1000,
+          "chunk_index": 1,
+          "printed_page": 11,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": true,
+        "is_hit": true,
+        "text": "GIÁO DỤC ĐỂ TĂNG TRƯỞNG \n11\nKhu vực kinh tế đối ngoại tiếp tục thể hiện khả năng chống chịu \nVị thế kinh tế đối ngoại được duy trì vững chắc cho dù cán cân vãng lai đang xấu đi. Cán cân vãng lai ghi \nnhận thâm hụt 1,5 tỷ USD trong quý I/2022 và tình trạng này dự kiến sẽ tiếp diễn trong quý II. Thâm hụt cán \ncân vãng lai chủ yếu do cán cân thương mại hàng hóa và dịch vụ phi yếu tố xấu đi, giảm từ thặng dư 1,8 tỷ \nUSD trong quý I/2021 sang thặng dư 0,9 tỷ USD trong quý I/2022 và thâm hụt 1,8 tỷ USD trong quý II do tỷ \ngiá thương mại liên tục suy yếu (Hình 1.18).7 Tỷ giá thương mại giảm 3,1% trong quý I/2022 và 2,6% trong \nquý II, càng làm trầm trọng thêm tình trạng xấu đi đã ghi nhận trong hai quý cuối năm 2021 (Hình 1.21). 8 \nXu hướng này phản ánh mức độ phụ thuộc cao của Việt Nam vào nguyên vật liệu nhập khẩu kết hợp với giá \nhàng hóa thế giới tăng cao. Giá cả tăng cao ban đầu do sự phục hồi mạnh mẽ vượt kỳ vọng của nền kinh \ntế toàn cầu sau đại dịch năm 2021 khi những hạn chế trong ch"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p32_b003",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 32,
+        "score": 0.7333247627174984,
+        "metadata": {
+          "section": "kinh_te_vi_mo",
+          "is_useful": true,
+          "char_count": 1000,
+          "chunk_index": 3,
+          "printed_page": 14,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": false,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "Khu vực dịch vụ ghi nhận thâm hụt thương mại ở mức 8,0 tỷ USD trong nửa đầu năm 2022 do đóng biên \nđến giữa tháng 3. Xuất khẩu dịch vụ chỉ bằng khoảng 45% mức trước đại dịch và các biện pháp hạn chế \nmậu biên tiếp tục ảnh hưởng đến dịch vụ du lịch và vận tải. Hai lĩnh vực này gộp lại chiếm hơn 80% kim \nngạch xuất khẩu dịch vụ năm 2019 (Hình 1.26). Đến quý II/2022, kim ngạch xuất khẩu du lịch và vận tải \nbằng một nửa mức trước đại dịch, là mức cải thiện đáng kể so với tỷ trọng đóng góp 5% trong quý I. Sau \nkhi quốc gia mở cửa trong tháng 3/2022, khách quốc tế đã quay trở lại, với khoảng 237,000 lượt khách đến \nViệt Nam trong tháng 6 (Hình 1.27). Tuy con số này chỉ bằng 20% mức trước đại dịch, nhưng đã đem lại sự \nhồi sinh cho ngành du lịch và cải thiện cán cân thương mại dịch vụ. Mặt khác, nhập khẩu dịch vụ đã quay \nvề mức trước đại dịch một phần do nhập khẩu dịch vụ vận tải và bảo hiểm tăng trong bối cảnh cả nhập \nkhẩu hàng hóa và cước phí đều tăng. Thêm vào đó, nhập khẩu dịch vụ du lị"
+      }
+    ],
+    "strategy": "B",
+    "filter_applied": null
+  },
+  {
+    "question_id": "q08",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Trong nửa đầu năm 2022, tốc độ tăng trưởng xuất khẩu và nhập khẩu hàng hóa theo giá hiện hành của Việt Nam lần lượt đạt mức bao nhiêu?",
+    "expected_answer": "Xuất khẩu tăng 17,4% và nhập khẩu tăng 15,7%",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 31,
+    "evidence_quote": "Xuất khẩu và nhập khẩu hàng hóa tăng lần lượt 17,4% và 15,7% theo giá hiện hành",
+    "filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "matching_rank": 1,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p31_b001",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 31,
+        "score": 0.7749904507568154,
+        "metadata": {
+          "section": "kinh_te_vi_mo",
+          "is_useful": true,
+          "char_count": 663,
+          "chunk_index": 1,
+          "printed_page": 13,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": true,
+        "is_hit": true,
+        "text": "GIÁO DỤC ĐỂ TĂNG TRƯỞNG \n13\nSau khi điều chỉnh mạnh năm 2021, tăng trưởng thương mại hàng hóa đi ngang trong nửa đầu năm 2022.\n\nXuất khẩu và nhập khẩu hàng hóa tăng lần lượt 17,4% và 15,7% theo giá hiện hành, thấp hơn nhiều so với \ncùng kỳ năm trước, nhưng vẫn cao hơn so với tốc độ tăng trước đại dịch (Hình 1.23). Tốc độ tăng trưởng \ncao này phần lớn nhờ giá xuất khẩu và giá nhập khẩu đều tăng do cơn bão giá hàng hóa thế giới và gián \nđoạn chuỗi cung ứng (như được bàn ở phần dưới). Sau khi loại bỏ yếu tố giá cả, nhập khẩu hàng hóa chỉ \ntăng 4,5%, thấp hơn so với tốc độ trước đại dịch, trong khi xuất khẩu hàng hóa tăng 9,3%, cao hơn tốc độ \ntrước đại dịch."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p31_b004",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 31,
+        "score": 0.7415645631699525,
+        "metadata": {
+          "section": "kinh_te_vi_mo",
+          "is_useful": true,
+          "char_count": 740,
+          "chunk_index": 4,
+          "printed_page": 13,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "Ngược lại, kim ngạch xuất khẩu dệt may tăng tốc từ 15,8% trong nửa đầu năm 2021 lên 21,6% trong nửa \nđầu năm 2022. Thay đổi nhu cầu trên thị trường Hoa Kỳ là một yếu tố chính dẫn đến sự dịch chuyển về cơ \ncấu sản phẩm, vì thị trường này chiếm gần 30% tổng kim ngạch xuất khẩu các mặt hàng công nghệ cao \nvà gần một nửa các mặt hàng dệt may của Việt Nam. Tăng trưởng xuất khẩu các mặt hàng công nghệ \ncao sang Hoa Kỳ giảm từ 47,2% trong nửa đầu năm 2021 xuống còn 32,4% trong nửa đầu năm 2022, trong \nkhi tăng trưởng xuất khẩu dệt may được duy trì ổn định từ 22,9% lên 23,5%. Kim ngạch xuất khẩu các mặt \nhàng nông sản được hưởng lợi do giá cả thương phẩm tăng cao, tăng đến 16,7% trong nửa đầu năm 2022, \nso với chỉ 11,7% cùng kỳ năm trước."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p31_b002",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 31,
+        "score": 0.7327328666842715,
+        "metadata": {
+          "section": "kinh_te_vi_mo",
+          "is_useful": true,
+          "char_count": 800,
+          "chunk_index": 2,
+          "printed_page": 13,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "Hình 1.22. Cán cân thương mại hàng hóa \nTỷ USD (NSA)\nHình 1.23. Tăng trưởng thương mại \n% (y/y, NSA)\nXuất khẩu (fob) Nhập khẩu (cif)\nCán cân TM (LHS)\nXuất khẩu thực Nhập khẩu thực\nXuất khẩu (fob) Nhập khẩu (cif)\n- 20\n- 10\n0\n10\n20\n- 100\n- 50\n0\n50\n100\nQ2- 18 Q2- 19 Q2- 20 Q2- 21 Q2- 22\n- 20\n0\n20\n40\n60\nQ2- 18 Q2- 19 Q2- 20 Q2- 21 Q2- 22\nNguồn: TCHQ, TCTK, Haver Analytics và tính toán của \ncán bộ Ngân hàng Thế giới\nGhi chú: fob = giao hàng lên tàu; cif = giá thành, bảo hiểm \nvà cước phí; LHS = trục tung bên trái; NSA = không hiệu \nchỉnh mùa vụ.\n\nNguồn: TCHQ, TCTK, Haver Analytics và tính toán của \ncán bộ Ngân hàng Thế giới\nGhi chú:Giá hàng xuât skhaaru là giá giao hàng lên tàu; \ngiá hàng nhập khẩu gồm giá thành, bảo hiểm và cước \nphí; NSA = không hiệu chỉnh mùa vụ; y/y = so cùng kỳ \nnăm trước."
+      }
+    ],
+    "strategy": "B",
+    "filter_applied": null
+  },
+  {
+    "question_id": "q09",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Tình trạng tăng giá lương thực, thực phẩm và nhiên liệu tại Việt Nam ảnh hưởng nhiều hơn đến mức sống của nhóm hộ gia đình nào?",
+    "expected_answer": "Các hộ gia đình có thu nhập cao hơn",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 38,
+    "evidence_quote": "Hộp 1.1. Giá lương thực, thực phẩm và nhiên liệu gia tăng ở Việt Nam đang ảnh hưởng nhiều hơn đến đến mức \nsống của các hộ gia đình có thu nhập cao hơn.",
+    "filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "matching_rank": 1,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p38_b001",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 38,
+        "score": 0.775373803131325,
+        "metadata": {
+          "section": "kinh_te_vi_mo",
+          "is_useful": true,
+          "char_count": 946,
+          "chunk_index": 1,
+          "printed_page": 20,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": true,
+        "is_hit": true,
+        "text": "GIÁO DỤC ĐỂ TĂNG TRƯỞNG \n20\nHộp 1.1. Giá lương thực, thực phẩm và nhiên liệu gia tăng ở Việt Nam đang ảnh hưởng nhiều hơn đến đến mức \nsống của các hộ gia đình có thu nhập cao hơn.\n\nCuộc chiến xâm lược U-crai-na khiến cho giá lương thực, thực phẩm và nhiên liệu tăng đáng kể trên toàn cầu và \ndẫn đến giá cả cao hơn tại Việt Nam. Giá lương thực, thực phẩm cao hơn làm giảm sức mua thực của các hộ gia \nđình và có khả năng làm tăng tỷ lệ nghèo. Tác động đối với các hộ gia đình phụ thuộc vào nhóm mặt hàng bị tăng \ngiá và cơ cấu hàng hóa và dịch vụ trong giỏ tiêu dùng của các hộ giàu hơn và các hộ nghèo hơn.\n\nLương thực, thực phẩm chiếm tỷ trọng lớn trong tiêu dùng ở tất cả các hộ gia đình tại Việt Nam, và hộ gia đình có \nthu nhập càng thấp thì tỷ trọng này càng cao (Hình H1.1). Tuy nhiên, các hộ gia đình có thu nhập thấp hơn cũng \nthường tự sản xuất lương thực, thực phẩm hơn. Phần tự sản xuất này có thể để bán hoặc để dùng trong gia đình."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p38_b005",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 38,
+        "score": 0.7664264322900304,
+        "metadata": {
+          "section": "kinh_te_vi_mo",
+          "is_useful": true,
+          "char_count": 745,
+          "chunk_index": 5,
+          "printed_page": 20,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "ập cao nhất), và tỷ lệ nghèo sẽ tăng 0,7 điểm phần trăm.13\nSức mua của hộ gia đình trong thực tế giảm thấp hơn so với tỷ lệ lạm phát bởi vì giỏ hàng hóa và dịch vụ tiêu dùng \ncủa các hộ gia đình thay đổi theo mức thu nhập (thập phân vị). Ngoài ra, trong trường hợp của Việt Nam, chi tiêu \ncủa các hộ gia đình cho các sản phẩm bị tăng giá mạnh (như xăng dầu hoặc ngũ cốc) chỉ ở mức thấp. Suy rộng \nra, tác động của lạm phát đối với sức mua đã tương đối nhỏ. Ví dụ, nếu CPI tăng 10%, các tính toán sơ bộ cho thấy \nsức mua của các hộ gia đình (dựa trên thói quen tiêu dùng thực tế) giảm từ 5,4% đối với nhóm 10% có thu nhập \nthấp nhất đến 6,7% đối với nhóm 10% có thu nhập cao nhất. Điều này cũng giải thích tại sao tác động đến nghèo \nđói lại nhỏ."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p38_b004",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 38,
+        "score": 0.7625407254474191,
+        "metadata": {
+          "section": "kinh_te_vi_mo",
+          "is_useful": true,
+          "char_count": 1000,
+          "chunk_index": 4,
+          "printed_page": 20,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "Tác động của làm phát kể từ tháng 2/2022 đối với các hộ gia đình (Hình H1.2) tương đương tổn thất khoảng 2% sức \nmua thực. Phân tích này ghép mức giá tăng của từng nhóm hàng hóa và dịch vụ tương ứng với tỷ trọng của nhóm \nhàng hóa và dịch vụ đó trong tổng tiêu dùng của hộ gia đình. Do giá các mặt hàng ngoài lương thực, thực phẩm \ntăng mạnh hơn so với giá lương thực, thực phẩm và hộ gia đình có thu nhập cao hơn có khả năng chi nhiều hơn cho \ncác mặt hàng ngoài lương thực, thực phẩm, nên tác động của lạm phát đối với những hộ có thu nhập cao hơn ước \ntính sẽ hơi lớn hơn (mặc dù tất cả các hộ gia đình đều bị ảnh hưởng) và tác động đối với tỷ lệ nghèo quốc gia ước \nrơi vào khoảng 0,3 điểm phần trăm. Nếu tỷ lệ tăng giá trong 4 tháng qua tiếp tục diễn ra trong những tháng tới, tác \nđộng đối với các hộ gia đình sẽ tương đương mức sống giảm từ 4,1% (đối với nhóm 10% hộ gia đình có thu nhập \nthấp) đến 4,8% (đối với nhóm 10% hộ gia đình có thu nhập cao nhất), và tỷ lệ nghèo sẽ tăng 0,7 điểm phần"
+      }
+    ],
+    "strategy": "B",
+    "filter_applied": null
+  },
+  {
+    "question_id": "q10",
+    "split": "dev",
+    "type": "dieu_kien",
+    "question": "Theo Nghị định 126/2020/NĐ-CP, quy định tỷ lệ tối thiểu của tổng số thuế TNDN tạm nộp trong 3 quý đầu năm so với tổng nghĩa vụ thuế cả năm là bao nhiêu?",
+    "expected_answer": "Không được thấp hơn 75%",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 41,
+    "evidence_quote": "quy định rằng tổng số thuế TNDN tạm nộp trong 3 \nquý đầu năm (đến hạn vào cuối tháng 10) không được thấp hơn 75% so với tổng nghĩa vụ thuế TNDN cả",
+    "filter": {
+      "section": "kinh_te_vi_mo"
+    },
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "matching_rank": 2,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p41_b003",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 41,
+        "score": 0.7109245283383413,
+        "metadata": {
+          "section": "kinh_te_vi_mo",
+          "is_useful": true,
+          "char_count": 889,
+          "chunk_index": 3,
+          "printed_page": 23,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "Quan trọng hơn, phân tích trên cho thấy quy định về tạm nộp thuế TNDN có thể đã làm tăng tác động tiêu \ncực của đợt giãn cách xã hội quý III/2021 đối với các doanh nghiệp, vì làm giảm lượng vốn khả dụng của \ndoanh nghiệp để chống chọi với khủng hoảng. Điều này đặc biệt đúng với các doanh nghiệp vừa và nhỏ \n(SMEs), đối tượng đáng lẽ được hưởng lợi từ chính sách giảm 30% thuế TNDN trong năm 2021 do biện \npháp giảm thuế được phê duyệt và có hiệu lực từ ngày 19/10/2021, thời điểm nhiều doanh nghiệp có thể \nđã hoàn thành việc tạm nộp thuế TNDN. Nhận biết được vấn đề này, Bộ Tài chính đã đề xuất sửa đổi thời \nhạn và số thuế tạm nộp. Theo đề xuất mới, doanh nghiệp phải tạm nộp tối thiểu 80% số thuế phải nộp \ntrong năm nay vào cuối tháng 1 năm tiếp theo. Nội dung sửa đổi này giúp doanh nghiệp có thêm thời gian \nđể ước tính chính xác hơn kết quả kinh doanh và nghĩa vụ thuế TNDN của họ."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p41_b001",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 41,
+        "score": 0.705766321448372,
+        "metadata": {
+          "section": "kinh_te_vi_mo",
+          "is_useful": true,
+          "char_count": 1000,
+          "chunk_index": 1,
+          "printed_page": 23,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": true,
+        "is_hit": true,
+        "text": "GIÁO DỤC ĐỂ TĂNG TRƯỞNG \n23\nthể là một cách lý giải. Thu từ thuế TNDN năm 2021 chỉ là số tạm nộp theo quý của các doanh nghiệp dựa \ntrên ước tính về kết quả sản xuất kinh doanh. Nghị định 126/2020/NĐ-CP hướng dẫn chi tiết một số điều \ncủa Luật Quản lý thuế có hiệu lực từ ngày 5/12/2020 quy định rằng tổng số thuế TNDN tạm nộp trong 3 \nquý đầu năm (đến hạn vào cuối tháng 10) không được thấp hơn 75% so với tổng nghĩa vụ thuế TNDN cả \nnăm của doanh nghiệp và doanh nghiệp sẽ phải nộp tiền chậm nộp trong trường hợp nộp thiếu. Quy định \nnày khiến các doanh nghiệp có động cơ tạm nộp dư thuế TNDN trước để tránh vi phạm ngoài ý muốn và \nphải nộp phạt do chậm nộp, kể cả khi hoạt động quyết toán thuế và xác định số thuế phải nộp chính thức \nchỉ không được thực hiện đến tận quý I của năm sau. Chính vì vậy, kết quả thu có nghịch lý từ thuế TNDN \nphần nào cho thấy nhiều doanh nghiệp đã ước tính nghĩa vụ thuế TNDN của họ quá cao. Nói cách khác, \ncác doanh nghiệp đã tạm nộp thuế TNDN nhiều hơn nghĩa vụ"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p41_b002",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 41,
+        "score": 0.6778882648492042,
+        "metadata": {
+          "section": "kinh_te_vi_mo",
+          "is_useful": true,
+          "char_count": 193,
+          "chunk_index": 2,
+          "printed_page": 23,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "anh nghiệp đã tạm nộp thuế TNDN nhiều hơn nghĩa vụ thuế TNDN phải nộp trong năm 2021 và sau \nđó được hoàn thuế trong giai đoạn quyết toán thuế, khiến cho số thu thuế TNDN giảm trong quý I/2022."
+      }
+    ],
+    "strategy": "B",
+    "filter_applied": null
+  },
+  {
+    "question_id": "q11",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Trong Bảng 1.2, Ngân hàng Thế giới dự báo tốc độ tăng trưởng GDP của Việt Nam năm 2022 đạt bao nhiêu phần trăm?",
+    "expected_answer": "7,5%",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 45,
+    "evidence_quote": "Tăng tưởng GDP (%) 7,2 2,9 2,6 7,5 6,7 6,5",
+    "filter": null,
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "matching_rank": 2,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p20_b002",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 20,
+        "score": 0.7567004133363021,
+        "metadata": {
+          "section": "kinh_te_vi_mo",
+          "is_useful": true,
+          "char_count": 1000,
+          "chunk_index": 2,
+          "printed_page": 2,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": false,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "Hình 1.1. Tăng trưởng kinh tế năm 2021-2022\n%\nPhần A: 2021-2022 Phần B: H1-2022\n0\n2\n4\n6\n8\n10\nQ1- 22e Q2- 22e\n0\n2\n4\n6\n8\n10\n2021e 2022f\nToàn cầu\nNền KTPT\nTTMN và ĐPT\nTrung Quốc\nHoa Kỳ\nPhilippines\nKV đồng euro\nIndonesia\nMalaysia\nViệt Nam\nThái Lan\nPhilippines\nKV đồng euro\nViệt Nam\nIndonesia\nMalaysia\nTrung Quốc\nHoa Kỳ\nThái Lan\nNguồn: TCTK, Báo cáo Triển vọng Kinh tế Toàn cầu Tháng 6/2022, Haver Analytics, và tính toán của cán bộ \nNgân hàng Thế giới\nGhi chú: e = ước tính; f = dự báo\nHình 1.2. Số ca nhiễm và tử vong mới hàng ngày\nNghìn ca nhiễm mới (trung bình động 7 ngày)\nHình 1.3. Xu hướng di chuyển\n% thay đổi so với đầu kỳ giai đoạn 3/1-6/2/2020 \n(trung bình động 7 ngày)\n0\n200\n400\n600\n0\n100\n200\n300\nRetail & \nrecreation\nGrocery & \npharmacy\nTransit \nstations\n0\n20\n40\n60\n80\n100\n- 90\n- 60\n- 30\n0\n30\n60\nCa nhiễm mới (LHS) Ca tử vong mới\nMức độ nghiêm ngặt (LHS)\nTạp hóa & \nhiệu thuốc\nBán lẻ & \ngiải trí\nTrung \nchuyển \ngiao \nthông\nT1-21 T7-21 T1-22 T7-22 T1-21 T7-21 T1-22 T7-22\nNguồn: Our World in D"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p45_b001",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 45,
+        "score": 0.750363890316489,
+        "metadata": {
+          "section": "kinh_te_vi_mo",
+          "is_useful": true,
+          "char_count": 571,
+          "chunk_index": 1,
+          "printed_page": 27,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": true,
+        "is_hit": true,
+        "text": "GIÁO DỤC ĐỂ TĂNG TRƯỞNG \n27\nBảng 1.2. Một số chỉ số kinh tế Việt Nam, 2019–2024\nChỉ số 2019 Ước 2020 Ước 2021 Dự báo 2022 Dự báo 2023 Dự báo 2024\nTăng tưởng GDP (%) 7,2 2,9 2,6 7,5 6,7 6,5\nChỉ số giá tiêu dùng (bình quân, %) 2,8 3,2 1,8 3,8 4,0 3,3\nCán cân vãng lai (%GDP) 3,7 3,7 -1,1 0,2 0,6 0,6\nCân đối thu, chi (% GDP) -0,4 -3,9 -3,5 -2,8 -3,2 -1,9\nNợ công (% GDP) 41,3 41,7 40,2 39,8 49,4 39,4\nNguồn: TCTK, BTC, NHNN, IMF, và tính toán của cán bộ Ngân hàng Thế giới.\n\nGhi chú: Các tính toán dử dụng GDP điều chỉnh trừ khi có chú thích khác. e = ước tính; f = dự báo."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p19_b006",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 19,
+        "score": 0.7445299797241046,
+        "metadata": {
+          "section": "kinh_te_vi_mo",
+          "is_useful": true,
+          "char_count": 168,
+          "chunk_index": 6,
+          "printed_page": 1,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": false,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "5 Ngân hàng Thế giới. 2022. Báo cáo Triển vọng Kinh tế Toàn cầu – Tháng 6/2022.\n\n6 Ngân hàng Thế giới. 2022. Khảo sát hộ gia đình Việt Nam trong COVID-19 – Tháng 5/2022"
+      }
+    ],
+    "strategy": "B",
+    "filter_applied": null
+  },
+  {
+    "question_id": "q12",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Chiến lược phát triển kinh tế xã hội giai đoạn 2021-2030 đặt mục tiêu đưa Việt Nam trở thành quốc gia có mức thu nhập nào?",
+    "expected_answer": "Nền kinh tế thu nhập trung bình cao",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 49,
+    "evidence_quote": "Chiến lược phát triển kinh tế xã hội giai đoạn 2021-2030 đặt mục tiêu đưa Việt Nam trở thành nền kinh tế \nthu nhập trung bình cao.",
+    "filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "matching_rank": 1,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p49_b001",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 49,
+        "score": 0.7326007563505909,
+        "metadata": {
+          "section": "giao_duc_dai_hoc",
+          "is_useful": true,
+          "char_count": 493,
+          "chunk_index": 1,
+          "printed_page": 31,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": true,
+        "is_hit": true,
+        "text": "GIÁO DỤC ĐỂ TĂNG TRƯỞNG \n31\nBỐI CẢNH\nChiến lược phát triển kinh tế xã hội giai đoạn 2021-2030 đặt mục tiêu đưa Việt Nam trở thành nền kinh tế \nthu nhập trung bình cao. Việt Nam mong muốn phát triển nhanh qua sử dụng tri thức khoa học, công nghệ, \nđổi mới sáng tạo và số hóa làm động lực để nâng cao năng suất và tăng trưởng kinh tế. Để hoàn thành \nkhát vọng đó, Việt Nam cần hỗ trợ phát triển mạnh mẽ vốn nhân lực, khi dân số của quốc gia dự kiến sẽ \ngià hóa nhanh chóng trong hai thập kỷ tới."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p14_b008",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 14,
+        "score": 0.6895586120831816,
+        "metadata": {
+          "section": "tong_quan",
+          "is_useful": true,
+          "char_count": 553,
+          "chunk_index": 8,
+          "printed_page": "roman_14",
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": false,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "Chương 2: Giáo dục để tăng trưởng\nViệt Nam cần lực lượng lao động có kỹ năng để \nchuyển đổi thành nền kinh tế thu nhập trung bình \ncao vào năm 2035\nViệt Nam cần có lực lượng lao động với kỹ năng của \nthế kỷ 21 để tăng trưởng. Khi chuyển từ nền kinh tế \ndựa vào kỹ năng thấp và việc làm lương thấp trong \ncác lĩnh vực chế tạo, chế biến và dịch vụ sang mô \nhình tăng trưởng nhờ vào động lực đổi mới sáng \ntạo nhiều hơn, dựa trên các ngành công nghiệp và \ndịch vụ đem lại giá trị gia tăng cao hơn, lực lượng \nlao động của Việt Nam cần có kỹ năng cao hơn và"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p15_b001",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 15,
+        "score": 0.688550586824207,
+        "metadata": {
+          "section": "tong_quan",
+          "is_useful": true,
+          "char_count": 514,
+          "chunk_index": 1,
+          "printed_page": "roman_15",
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": false,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "GIÁO DỤC ĐỂ TĂNG TRƯỞNG \nxv\nphù hợp hơn. Chiến lược của Chính phủ (Chiến lược \nphát triển KTXH 2021-2030) cũng đặt ra mục tiêu \nnhư trên, coi việc sử dụng tri thức khoa học, công \nnghệ, đổi mới sáng tạo và chuyển đổi số, và phát \ntriển nguồn nhân lực chất lượng cao là động lực \nnâng cao năng suất và tăng trưởng kinh tế trong \ntương lai. Để đạt những mục tiêu đó, Việt Nam cần \ncải cách hệ thống giáo dục nhằm cải thiện về chất \nlượng và khả năng tiếp cận, để có thể cung cấp các \nkỹ năng cần thiết cho người dân."
+      }
+    ],
+    "strategy": "B",
+    "filter_applied": null
+  },
+  {
+    "question_id": "q13",
+    "split": "dev",
+    "type": "dieu_kien",
+    "question": "Việc cắt giảm chỉ tiêu quy mô tuyển sinh đại học tại Việt Nam trước đây được thực hiện nhằm mục đích gì?",
+    "expected_answer": "Nhằm kiểm soát tuyển sinh vào các trường đại học hoạt động chưa tốt",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 51,
+    "evidence_quote": "Mặt khác, chỉ tiêu tuyển sinh bị giảm nhằm kiểm soát tuyển sinh vào các trường đại học hoạt \nđộng chưa tốt, dẫn đến tổng số lượng tuyển sinh bị chững lại.",
+    "filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "matching_rank": 1,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p51_b001",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 51,
+        "score": 0.7427475632799485,
+        "metadata": {
+          "section": "giao_duc_dai_hoc",
+          "is_useful": true,
+          "char_count": 477,
+          "chunk_index": 1,
+          "printed_page": 33,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": true,
+        "is_hit": true,
+        "text": "GIÁO DỤC ĐỂ TĂNG TRƯỞNG \n33\nsinh từ 4,5 triệu xuống còn 2,2 triệu, qua ghi nhận rằng “hệ thống phát triển quá nhanh và ảnh hưởng đến \nchất lượng”. Mặt khác, chỉ tiêu tuyển sinh bị giảm nhằm kiểm soát tuyển sinh vào các trường đại học hoạt \nđộng chưa tốt, dẫn đến tổng số lượng tuyển sinh bị chững lại. Trong khi đó, các trường đại học chất lượng \ncao và hoạt động tốt lại được Chính phủ giao nhiệm vụ thực hiện tự chủ về tài chính, sử dụng phần lớn \nnguồn vốn là nguồn học phí."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p61_b003",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 61,
+        "score": 0.7054196823385559,
+        "metadata": {
+          "section": "giao_duc_dai_hoc",
+          "is_useful": true,
+          "char_count": 675,
+          "chunk_index": 3,
+          "printed_page": 43,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": false,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "Năng lực của Bộ GD&ĐT về hoạch định tầm nhìn dài hạn cho ngành và thực thi còn yếu. Do thiếu khung lô-gíc \nhoạch định tốt và kế hoạch triển khai được đảm bảo nguồn lực nên quá trình phát triển lĩnh vực này còn gặp nhiều \ntrở ngại. Điều này còn trầm trọng hơn do thiếu cán bộ năng lực và trình độ và hiện chưa có Hệ thống thông tin quản \nlý giáo dục đại học (HEMIS) thống nhất, gây cản trở cho quá trình ra quyết định dựa trên bằng chứng của các cấp \ncó thẩm quyền. Vì lý do đó và do quan ngại về kết quả giáo dục của các trường đại học, chỉ tiêu tuyển sinh trong \nlĩnh vực giáo dục đại học vào năm 2013 giảm xuống 2,2 triệu trong năm 2020 thay vì con số ban đầu là 4,5 triệu."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p50_b004",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 50,
+        "score": 0.6982494054149057,
+        "metadata": {
+          "section": "giao_duc_dai_hoc",
+          "is_useful": true,
+          "char_count": 650,
+          "chunk_index": 4,
+          "printed_page": 32,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": false,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "Lĩnh vực giáo dục sau phổ thông đã trải qua hai giai đoạn phát triển rõ rệt. Từ năm 2000 đến năm 2016, \nViệt Nam đã có những tiến triển đáng ghi nhận về mở rộng cơ hội tiếp cận giáo dục sau phổ thông khi chỉ \ntiêu tuyển sinh tăng từ 0,9 triệu lên 2,3 triệu sinh viên. Tuy nhiên, quá trình mở rộng chủ yếu diễn ra trong \ngiai đoạn từ năm 2000 đến năm 2010, còn từ năm 2010 trở đi, số tuyển sinh tăng không đáng kể. Quyết \nđịnh số 37 - ban hành năm 2013 và hiện vẫn còn hiệu lực - điều chỉnh giảm đáng kể tổng chỉ tiêu tuyển \n18 Kataoka, Vinh, Kitchlu, và Inoue, 2020. Vốn nhân lực của Việt Nam: Thành công trong giáo dục và thách thức trong tương lai."
+      }
+    ],
+    "strategy": "B",
+    "filter_applied": null
+  },
+  {
+    "question_id": "q14",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Hệ thống giáo dục đại học của Việt Nam đạt kết quả chưa được như mong đợi xuất phát từ những nguyên nhân nào?",
+    "expected_answer": "Do nguyên nhân ở cả yếu tố cung và cầu",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 54,
+    "evidence_quote": "Hệ thống giáo dục đại học ở Việt Nam đạt kết quả chưa được như mong muốn có thể do nguyên nhân ở cả \nyếu tố cung và cầu.",
+    "filter": {
+      "section": "giao_duc_dai_hoc"
+    },
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "matching_rank": 1,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p54_b001",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 54,
+        "score": 0.8122110821282778,
+        "metadata": {
+          "section": "giao_duc_dai_hoc",
+          "is_useful": true,
+          "char_count": 618,
+          "chunk_index": 1,
+          "printed_page": 36,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": true,
+        "is_hit": true,
+        "text": "II. Nguyên nhân hệ thống giáo dục đại học của Việt Nam \nchưa đạt được kết quả như mong muốn \nHệ thống giáo dục đại học ở Việt Nam đạt kết quả chưa được như mong muốn có thể do nguyên nhân ở cả \nyếu tố cung và cầu. Yếu tố cầu liên quan đến chi phí cơ hội cao và chi phí tài chính để theo học giáo dục đại \nhọc gia tăng, cũng như lợi ích kinh tế của giáo dục giảm dần. Yếu tố cung liên quan đến chênh lệch về kỹ \nnăng của sinh viên tốt nghiệp phổ thông với nhu cầu thị trường. Hơn nữa, đầu tư công ở mức thấp, cơ cấu \nthể chế yếu kém và manh mún ở cấp giáo dục đại học, dẫn đến kết quả thấp cả về số lượng và chất lượng."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p16_b002",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 16,
+        "score": 0.7521490010294674,
+        "metadata": {
+          "section": "tong_quan",
+          "is_useful": true,
+          "char_count": 748,
+          "chunk_index": 2,
+          "printed_page": "roman_16",
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": false,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "Thiếu kinh phí từ NSNN, kết hợp với thể chế quản \ntrị giáo dục sau phổ thông yếu kém và manh mún \nlà yếu tố gây ảnh hưởng đến chất lượng giáo dục \nđại học cũng như đến tốc độ phát triển năng lực đổi \nmới sáng tạo và chuyển giao công nghệ. Việt Nam \nchi thấp hơn các quốc gia khác trong khu vực cho \ngiáo dục đại học; trong năm 2019, Việt Nam phân \nbổ 0,6% GDP cho giáo dục đại học, cao đẳng và dạy \nnghề, so với 0,86% tại Ma-lay-xia và 0,9% tại Hàn \nQuốc. Ngoài ra, hiện chưa có một cơ quan quản lý \ntập trung và thống nhất toàn bộ hệ thống giáo dục \nđại học và nghiên cứu; khung pháp lý còn phức tạp, \nmanh mún và thiếu đồng bộ; sự gắn kết giữa các \ntrường đại học và các đơn vị nghiên cứu còn yếu; \ncông tác đảm bảo chất lượng cần phải cải thiện."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p15_b005",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 15,
+        "score": 0.748952080904066,
+        "metadata": {
+          "section": "tong_quan",
+          "is_useful": true,
+          "char_count": 1000,
+          "chunk_index": 5,
+          "printed_page": "roman_15",
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": false,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "Các yếu tố cung và yếu tố cầu ảnh hưởng đến kết quả \nđầu ra của hệ thống giáo dục đại học tại Việt Nam\nNhìn trên góc độ cầu, những yếu tố cản trở mong \nmuốn theo đuổi giáo dục đại học bao gồm chi phí \ncơ hội của việc học tập, suất sinh lợi từ giáo dục \ngiảm dần, và gánh nặng chi phí tài chính gia tăng \nđối với các hộ gia đình. Theo học đại học đồng \nnghĩa với việc phải trì hoãn tham gia các hoạt động \ntạo thu nhập trong một số năm, và đó là chi phí \ncơ hội lớn đối với sinh viên. Thêm vào đó, mặc dù \nthu nhập của sinh viên tốt nghiệp đại học ở độ tuổi \ntừ 25 đến 35 cao hơn ba lần so với thu nhập của \nlao động không có bằng cấp, nhưng suất sinh lợi \ntương quan tính trên lương của lao động chuyên \nnghiệp có trình độ và kỹ năng đã và đang suy giảm \ntrong giai đoạn 2010-2020. Suất sinh lợi của giáo \ndục và kỹ năng - được đo bằng thay đổi về mức \nlương theo giờ của người lao động có trình độ sau \nphổ thông so với các nhóm có trình độ dưới tiểu \nhọc - giảm từ 70% trong năm 2010 xuống 50% \ntro"
+      }
+    ],
+    "strategy": "B",
+    "filter_applied": null
+  },
+  {
+    "question_id": "q15",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Theo phân tích, yếu tố cầu liên quan đến những trở ngại kinh tế nào đối với người học đại học tại Việt Nam?",
+    "expected_answer": "Chi phí cơ hội cao và chi phí tài chính gia tăng, lợi ích kinh tế giảm dần",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 54,
+    "evidence_quote": "Yếu tố cầu liên quan đến chi phí cơ hội cao và chi phí tài chính để theo học giáo dục đại \nhọc gia tăng, cũng như lợi ích kinh tế của giáo dục giảm dần.",
+    "filter": null,
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "matching_rank": 3,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p15_b005",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 15,
+        "score": 0.8052983781848652,
+        "metadata": {
+          "section": "tong_quan",
+          "is_useful": true,
+          "char_count": 1000,
+          "chunk_index": 5,
+          "printed_page": "roman_15",
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": false,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "Các yếu tố cung và yếu tố cầu ảnh hưởng đến kết quả \nđầu ra của hệ thống giáo dục đại học tại Việt Nam\nNhìn trên góc độ cầu, những yếu tố cản trở mong \nmuốn theo đuổi giáo dục đại học bao gồm chi phí \ncơ hội của việc học tập, suất sinh lợi từ giáo dục \ngiảm dần, và gánh nặng chi phí tài chính gia tăng \nđối với các hộ gia đình. Theo học đại học đồng \nnghĩa với việc phải trì hoãn tham gia các hoạt động \ntạo thu nhập trong một số năm, và đó là chi phí \ncơ hội lớn đối với sinh viên. Thêm vào đó, mặc dù \nthu nhập của sinh viên tốt nghiệp đại học ở độ tuổi \ntừ 25 đến 35 cao hơn ba lần so với thu nhập của \nlao động không có bằng cấp, nhưng suất sinh lợi \ntương quan tính trên lương của lao động chuyên \nnghiệp có trình độ và kỹ năng đã và đang suy giảm \ntrong giai đoạn 2010-2020. Suất sinh lợi của giáo \ndục và kỹ năng - được đo bằng thay đổi về mức \nlương theo giờ của người lao động có trình độ sau \nphổ thông so với các nhóm có trình độ dưới tiểu \nhọc - giảm từ 70% trong năm 2010 xuống 50% \ntro"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p54_b002",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 54,
+        "score": 0.7960770646964375,
+        "metadata": {
+          "section": "giao_duc_dai_hoc",
+          "is_useful": true,
+          "char_count": 860,
+          "chunk_index": 2,
+          "printed_page": 36,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "2.1. Yếu tố cầu \nNhiều gia đình và nhiều học sinh có ý định theo học sau phổ thông nhưng phải đối mặt với chi phí cơ hội \ncao nếu muốn theo đuổi tấm bằng của chương trình giáo dục sau phổ thông. Việt Nam là nền kinh tế đang \ntăng trưởng mạnh, với tỷ lệ thất nghiệp chính thức rơi vào khoảng 2%, các cá nhân, hộ gia đình và doanh \nnghiệp đều đang tham gia nhiều hoạt động tạo thu nhập khác nhau. Theo học đại học đồng nghĩa với việc \nphải giảm đi một vài năm đi làm có thu nhập xét đến nhu cầu thời gian của sinh viên. Chi phí cơ hội nêu \ntrên vốn đã lớn lại càng lớn hơn do thực tế là mặc dù thu nhập của người tốt nghiệp đại học cao hơn so với \nnhững người không có bằng đại học (Hình 2.8), nhưng lợi ích kinh tế hoặc thu nhập của lao động chuyên \nmôn có kỹ năng và có trình độ đã và đang theo xu hướng giảm trong giai đoạn 2010-2020 (Hình 2.9 và \nHình 2.10)."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p54_b001",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 54,
+        "score": 0.7753666259942315,
+        "metadata": {
+          "section": "giao_duc_dai_hoc",
+          "is_useful": true,
+          "char_count": 618,
+          "chunk_index": 1,
+          "printed_page": 36,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": true,
+        "is_hit": true,
+        "text": "II. Nguyên nhân hệ thống giáo dục đại học của Việt Nam \nchưa đạt được kết quả như mong muốn \nHệ thống giáo dục đại học ở Việt Nam đạt kết quả chưa được như mong muốn có thể do nguyên nhân ở cả \nyếu tố cung và cầu. Yếu tố cầu liên quan đến chi phí cơ hội cao và chi phí tài chính để theo học giáo dục đại \nhọc gia tăng, cũng như lợi ích kinh tế của giáo dục giảm dần. Yếu tố cung liên quan đến chênh lệch về kỹ \nnăng của sinh viên tốt nghiệp phổ thông với nhu cầu thị trường. Hơn nữa, đầu tư công ở mức thấp, cơ cấu \nthể chế yếu kém và manh mún ở cấp giáo dục đại học, dẫn đến kết quả thấp cả về số lượng và chất lượng."
+      }
+    ],
+    "strategy": "B",
+    "filter_applied": null
+  },
+  {
+    "question_id": "q16",
+    "split": "test",
+    "type": "truc_tiep",
+    "question": "Sau khi tính đến sự khác biệt về thời lượng học tập, số năm đi học bình quân của Việt Nam là bao nhiêu và xếp thứ mấy trong khối ASEAN?",
+    "expected_answer": "10,2 năm, chỉ đứng sau Singapore",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 15,
+    "evidence_quote": "số năm đi \nhọc bình quân của Việt Nam là 10,2 năm, chỉ đứng \nsau Sing-ga-po trong Hiệp hội các Quốc gia Đông \nNam Á (ASEAN)",
+    "filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "matching_rank": 1,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p15_b002",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 15,
+        "score": 0.7480344399461802,
+        "metadata": {
+          "section": "tong_quan",
+          "is_useful": true,
+          "char_count": 999,
+          "chunk_index": 2,
+          "printed_page": "roman_15",
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": true,
+        "is_hit": true,
+        "text": "Kết quả của hệ thống giáo dục sau phổ thông của \nViệt Nam vẫn có thể được cải thiện thêm\nViệt Nam đạt được kết quả tốt trong việc cung cấp \ngiáo dục phổ thông có chất lượng cho người dân, \nnhưng chưa đạt được nhiều thành công trong giáo \ndục sau phổ thông. Sau khi tính đến sự khác biệt \nvề thời lượng học tập giữa các quốc gia, số năm đi \nhọc bình quân của Việt Nam là 10,2 năm, chỉ đứng \nsau Sing-ga-po trong Hiệp hội các Quốc gia Đông \nNam Á (ASEAN) và chỉ số vốn nhân lực đạt 0,69 \ntrên 1, cao nhất trong số các nền kinh tế thu nhập \ntrung bình thấp. Tuy nhiên, tỷ lệ nhập học giáo dục \nsau phổ thông của Việt Nam năm 2019 chỉ đạt \n28,6%, thấp hơn so với các quốc gia so sánh trong \nkhu vực và so với tỷ lệ nhập học bình quân 55,1% \nở các quốc gia thu nhập trung bình cao. Điều này \ncho thấy, trong số khoảng 6,9 triệu trẻ em thuộc \nđộ tuổi đi học các chương trình sau phổ thông, chỉ \ncó khoảng hơn 2 triệu em nhập học. Để đạt tỷ lệ \nnhập học bằng các quốc gia thu nhập trung bình \ncao trong dài"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p50_b002",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 50,
+        "score": 0.7376424128954471,
+        "metadata": {
+          "section": "giao_duc_dai_hoc",
+          "is_useful": true,
+          "char_count": 1000,
+          "chunk_index": 2,
+          "printed_page": 32,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": false,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "I. Đánh giá thành tựu của Việt Nam về khả năng tiếp \ncận, tỷ lệ nhập học và kết quả học tập giáo dục sau \nphổ thông\nViệt Nam đạt kết quả tốt về cung cấp giáo dục phổ thông có chất lượng cho người dân. Trong 25 năm qua, \nViệt Nam đã mở rộng khả năng tiếp cận giáo dục, hoàn thành phổ cập giáo dục tiểu học và nâng cao tỷ lệ \nnhập học giáo dục trung học cơ sở, trung học phổ thông và giáo dục sau phổ thông. Trẻ em ở Việt Nam \nngày nay có nhiều cơ hội tốt nghiệp giáo dục tiểu học với khả năng đọc hiểu và làm toán thành thạo. Thành \ncông đó của Việt Nam có được là nhờ Chính phủ chi tiêu khá cao cho giáo dục, tập trung vào yếu tố công \nbằng, thu hút và hỗ trợ giáo viên có trình độ, đầu tư vào giáo dục tiền tiểu học, áp dụng chiến lược các hình \nthức đánh giá, song song với những đổi mới qua các quyết định dựa trên bằng chứng.18 Sau khi điều chỉnh \nvề thời lượng học tập, số năm học ở trường bình quân của Việt Nam là 10,2 năm, chỉ đứng thứ hai sau Sing-\nga-po trong Hiệp hội các Quốc gia Đông Nam"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p50_b003",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 50,
+        "score": 0.7112576471898483,
+        "metadata": {
+          "section": "giao_duc_dai_hoc",
+          "is_useful": true,
+          "char_count": 425,
+          "chunk_index": 3,
+          "printed_page": 32,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": false,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "u Sing-\nga-po trong Hiệp hội các Quốc gia Đông Nam Á (ASEAN). Việt Nam cũng có chỉ số vốn nhân lực (HCI) cao, \ntrong đó thể hiện vốn nhân lực tương quan mà một đứa trẻ sinh ra hiện nay có thể đạt được vào năm 18 \ntuổi. Chỉ số này còn thể hiện năng suất lao động của thế hệ tiếp theo so với mốc chuẩn chung về giáo dục \nphổ thông và sức khỏe toàn diện.19 Đó chính là yếu tố hỗ trợ cho phát triển kinh tế trong hai thập kỷ qua."
+      }
+    ],
+    "strategy": "B",
+    "filter_applied": null
+  },
+  {
+    "question_id": "q17",
+    "split": "test",
+    "type": "truc_tiep",
+    "question": "Trong quý I năm 2022, tỷ lệ doanh nghiệp được phỏng vấn cho biết đã tuyển dụng thêm lao động mới là bao nhiêu?",
+    "expected_answer": "Cứ năm doanh nghiệp thì có một doanh nghiệp (20%)",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 24,
+    "evidence_quote": "Cứ năm doanh nghiệp được \nphỏng vấn thì có một doanh nghiệp cho biết đã tuyển dụng lao động mới trong quý I/2022",
+    "filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "matching_rank": 1,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p24_b002",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 24,
+        "score": 0.7607201919606642,
+        "metadata": {
+          "section": "kinh_te_vi_mo",
+          "is_useful": true,
+          "char_count": 389,
+          "chunk_index": 2,
+          "printed_page": 6,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": true,
+        "is_hit": true,
+        "text": "bị giãn cách xã hội gây ảnh hưởng nghiêm trọng \nhơn (như thành phố Hồ Chí Minh) lại phục hồi nhanh chóng hơn (Hình 1.10). Cứ năm doanh nghiệp được \nphỏng vấn thì có một doanh nghiệp cho biết đã tuyển dụng lao động mới trong quý I/2022 (Hình 1.11) và \ntỷ lệ doanh nghiệp cho biết đang có nợ đọng hoặc dự kiến sẽ không thể trả nợ đúng hạn trong thời gian \nsắp tới cũng đang giảm (Hình 1.12)."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p11_b005",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 11,
+        "score": 0.7226954487108597,
+        "metadata": {
+          "section": "tong_quan",
+          "is_useful": true,
+          "char_count": 1000,
+          "chunk_index": 5,
+          "printed_page": "roman_11",
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": false,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "Các doanh nghiệp đang phục hồi nhưng còn yếu ớt\nKhi nền kinh tế được mở cửa trở lại trong quý \nIV/2021 và quý I/2022, các doanh nghiệp cho biết \nhoạt động sản xuất kinh doanh đã được khôi phục, \nnhưng cần thêm thời gian mới có thể phục hồi \nhoàn toàn. Khảo sát Đánh gia tác động đến doanh \nnghiệp lần thứ 5 do Ngân hàng Thế giới thực hiện \ntừ tháng 1 đến tháng 3/2022 cho thấy 92,6% doanh \nnghiệp trong khu vực chính thức đã quay trở lại \nhoạt động, và 20% doanh nghiệp cho biết có tuyển \nlao động mới trong quý I/2022. Mặc dù vậy, một số \ndoanh nghiệp vẫn phải đối mặt với thách thức. 44% \ndoanh nghiệp cho biết doanh số của họ vẫn giữ \nnguyên hoặc tốt hơn so với trước đại dịch trong giai \nđoạn tháng 01-03/2022, nhưng có 56% các doanh \nnghiệp khác cho biết doanh số của họ bị giảm \ntrong cùng kỳ. Tuy nhiên tình trạng thiếu lao động \ntrên diện rộng vẫn kéo dài đến tháng 03/2022, nhất \nlà đối với các doanh nghiệp trong ngành dịch vụ, \nngành công nghiệp chế tạo, chế biến và trên địa \nbàn thành ph"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p24_b001",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 24,
+        "score": 0.7025733094609018,
+        "metadata": {
+          "section": "kinh_te_vi_mo",
+          "is_useful": true,
+          "char_count": 1000,
+          "chunk_index": 1,
+          "printed_page": 6,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "GIÁO DỤC ĐỂ TĂNG TRƯỞNG \n6\nCác doanh nghiệp đang phục hồi nhưng còn yếu ớt \nKhi nền kinh tế mở cửa trở lại trong quý I/2022, các doanh nghiệp cho biết các hoạt động sản xuất kinh \ndoanh của họ cũng phục hồi. Khảo sát Đánh giá tác động tới doanh nghiệp lần thứ 5 của Ngân hàng Thế \ngiới được thực hiện từ tháng 01 đến tháng 03/2022 cho thấy tỷ lệ doanh nghiệp quay trở lại sản xuất kinh \ndoanh đạt 92,6%, mức cao nhất kể từ giai đoạn tháng 9-10/2020 (Hình 1.9). Tỷ lệ gia nhập ròng cũng tăng, \ntrong đó số doanh nghiệp giải thể từ tháng 01 đến tháng 3 năm 2022 thấp hơn nhiều so với cùng kỳ năm \n2021 và số doanh nghiệp đăng ký thành lập mới đạt mức cao nhất kể từ năm 2019. Tỷ lệ doanh nghiệp cho \nbiết gặp các vấn đề về chuỗi cung ứng cũng giảm. Khi nhu cầu hồi phục, doanh số bán hàng cũng phục hồi \ntrên cả nước. Tăng trưởng doanh số hàng tháng tăng 24 điểm phần trăm so với mức -39% được ghi nhận \nvào mùa thu năm 2021. Những khu vực và thành phố bị giãn cách xã hội gây ảnh hưởng nghiêm trọng \nh"
+      }
+    ],
+    "strategy": "B",
+    "filter_applied": null
+  },
+  {
+    "question_id": "q18",
+    "split": "test",
+    "type": "truc_tiep",
+    "question": "Gói hỗ trợ lãi suất cho các ngành dịch vụ bị ảnh hưởng nặng nề bởi đại dịch có tổng quy mô bao nhiêu và có hiệu lực đến khi nào?",
+    "expected_answer": "40 nghìn tỷ đồng (tương đương 1,7 tỷ USD hay 0,5% GDP) và có hiệu lực đến cuối năm 2023",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 43,
+    "evidence_quote": "Biện pháp hỗ trợ này có tổng quy mô 40 \nnghìn tỷ đồng (tương đương 1,7 tỷ USD hay 0,5% GDP) và sẽ có hiệu lực đến cuối năm 2023.",
+    "filter": {
+      "section": "kinh_te_vi_mo"
+    },
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "matching_rank": 1,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p43_b003",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 43,
+        "score": 0.8017268789864004,
+        "metadata": {
+          "section": "kinh_te_vi_mo",
+          "is_useful": true,
+          "char_count": 792,
+          "chunk_index": 3,
+          "printed_page": 25,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": true,
+        "is_hit": true,
+        "text": "Gói hỗ trợ lãi suất nhắm vào một số lĩnh vực cụ thể, trong đó có các ngành dịch vụ vốn đã bị ảnh hưởng nặng nề \nbởi đại dịch, như vận tải và kho bãi, dịch vụ lưu trú và ăn uống, và du lịch. Biện pháp hỗ trợ này có tổng quy mô 40 \nnghìn tỷ đồng (tương đương 1,7 tỷ USD hay 0,5% GDP) và sẽ có hiệu lực đến cuối năm 2023. Tương tự như các gói \nhỗ trợ trước đó, hỗ trợ bằng tiền cho người lao động có quy mô không đáng kể (khoảng 0,1% GDP) và được thiết kế \nnhằm khuyễn khích người lao động quay trở lại hoặc tiếp tục làm việc tại các khu công nghiệp, các khu chế xuất và \ncác vùng kinh tế trọng điểm: hỗ trợ 3 tháng tiền thuê nhà và ước tính khoảng 4,0 triệu người điều kiện nhận hỗ trợ.\n\nTiến độ triển khai Chương trình còn chậm, tương tự như với các gói hỗ trợ COVID-19 trước đó năm 2020-2021."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p34_b002",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 34,
+        "score": 0.7236116314492728,
+        "metadata": {
+          "section": "kinh_te_vi_mo",
+          "is_useful": true,
+          "char_count": 170,
+          "chunk_index": 2,
+          "printed_page": 16,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": false,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "về tái cơ cấu thời gian trả nợ vốn vay, và khuyến khích các ngân hàng \nthương mại miễn, giảm lãi suất và phí để hỗ trợ các doanh nghiệp bị ảnh hưởng do đại dịch COVID-19."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p42_b003",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 42,
+        "score": 0.6476679815626972,
+        "metadata": {
+          "section": "kinh_te_vi_mo",
+          "is_useful": true,
+          "char_count": 158,
+          "chunk_index": 3,
+          "printed_page": 24,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": false,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "khai trong năm 2023, và tình hình thực hiện gói hỗ trợ này nói chung có \nvẻ cũng gặp phải những thách thức tương tự như với các gói hỗ trợ trước đó (Hộp 1.2)."
+      }
+    ],
+    "strategy": "B",
+    "filter_applied": null
+  },
+  {
+    "question_id": "q19",
+    "split": "test",
+    "type": "dieu_kien",
+    "question": "Hai bộ ngành nào của Việt Nam đang cùng phụ trách quản lý nhà nước đối với lĩnh vực giáo dục đại học và đào tạo nghề?",
+    "expected_answer": "Bộ Giáo dục và Đào tạo và Bộ Lao động, Thương binh và Xã hội",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 61,
+    "evidence_quote": "có hai bộ khác nhau (Bộ Giáo dục và Đào tạo và Bộ Lao động, Thương binh và Xã hội) phụ trách quản lý lĩnh vực \ngiáo dục đại học và lĩnh vực dạy nghề và kỹ thuật (cao đẳng)",
+    "filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "matching_rank": 1,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p61_b001",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 61,
+        "score": 0.7376105453683955,
+        "metadata": {
+          "section": "giao_duc_dai_hoc",
+          "is_useful": true,
+          "char_count": 723,
+          "chunk_index": 1,
+          "printed_page": 43,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": true,
+        "is_hit": true,
+        "text": "GIÁO DỤC ĐỂ TĂNG TRƯỞNG \n43\nHộp 2.1. Nhu cầu cải cách căn bản về cơ cấu thể chế và quản trị để đạt kết quả về giáo dục đại học1 \nHiện chưa có một cơ quan quản lý tập trung và thống nhất toàn bộ hệ thống nghiên cứu và giáo dục đại học. Mặc \ndù có hai bộ khác nhau (Bộ Giáo dục và Đào tạo và Bộ Lao động, Thương binh và Xã hội) phụ trách quản lý lĩnh vực \ngiáo dục đại học và lĩnh vực dạy nghề và kỹ thuật (cao đẳng), nhưng sự phối hợp cấp bộ còn ít và sự kết nối giữa \ncác trường còn hạn chế. Bên cạnh đó, một vài bộ ngành và chính quyền cấp tỉnh cũng quản lý trên 200 trường đại \nhọc và cao đẳng chuyên nghiệp, còn Văn phòng Chính phủ trực tiếp quản lý hai trường đại học quốc gia, trong đó \ncó một số đại học chuyên ngành."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p17_b001",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 17,
+        "score": 0.7141239470395108,
+        "metadata": {
+          "section": "tong_quan",
+          "is_useful": true,
+          "char_count": 739,
+          "chunk_index": 1,
+          "printed_page": "roman_17",
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": false,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "GIÁO DỤC ĐỂ TĂNG TRƯỞNG \nxvii\nquản lý lĩnh vực giáo dục đại học để tạo điều \nkiện phát triển và cải thiện chất lượng. Nhu cầu \nđặt ra là xác định tầm nhìn và chiến lược cho \ngiáo dục đại học, sửa đổi cấu trúc ngành và \nkhung pháp quy, kết hợp với các biện pháp đảm \nbảo chất lượng nhằm tạo điều kiện thuận lợi \ncho các trường đại học hoạt động theo hướng \ntự chủ và tự đảm bảo trách nhiệm giải trình \ntrong một cấu trúc quản trị hiệu quả hơn; giao \ncho một bộ duy nhất phụ trách công tác quản \nlý nhà nước đối với các trường đại học, trường \nkỹ thuật và dạy nghề, nghiên cứu và công nghệ.\n\nCác cấp có thẩm quyền cần chủ động theo dõi \ntiến độ và kết quả đầu ra của chương trình cải \ncách này thông qua hệ thống quản lý thông tin \nhiện đại."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p61_b002",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 61,
+        "score": 0.6999105268213437,
+        "metadata": {
+          "section": "giao_duc_dai_hoc",
+          "is_useful": true,
+          "char_count": 930,
+          "chunk_index": 2,
+          "printed_page": 43,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "Các trường đại học và các đơn vị nghiên cứu còn thiếu sự gắn kết. Vài trăm viện nghiên cứu của Nhà nước đang \nhoạt động độc lập với các trường đại học, với sự tách biệt giữa giảng dạy và nghiên cứu theo mô hình Liên Xô và \nĐông Âu. Sự tách biệt như vậy ảnh hưởng đến cả hiệu quả và hiệu suất của hai loại hình đơn vị, dẫn đến nguồn \nnhân lực và tài lực bị phân tán cũng như thiếu khả năng tạo ra sự ưu tú trong nghiên cứu và giảng dạy (Salmi 2009).\n\nHệ thống pháp quy còn phức tạp, manh mún và thiếu đồng bộ. Một vài bộ và cơ quan trung ương có thẩm quyền \nquản lý giáo dục đại học, bao gồm Bộ GD&ĐT, Bộ Kế hoạch và Đầu tư (KH&ĐT), Bộ Tài chính, Bộ Khoa học và Công \nnghệ (KH&CN), Bộ Nội vụ, Ngân hàng Chính sách Xã hội Việt Nam, Hội đồng Giáo sư Nhà nước. Mô hình như vậy \ndẫn đến kiểm soát hành chính quá mức đối với các trường giáo dục đại học và đôi khi các cơ quan khác nhau ban \nhành những thông tư/nghị định mâu thuẫn nhau."
+      }
+    ],
+    "strategy": "B",
+    "filter_applied": null
+  },
+  {
+    "question_id": "q20",
+    "split": "test",
+    "type": "truc_tiep",
+    "question": "Tại Hàn Quốc, tỷ lệ người dân trong độ tuổi từ 24 đến 35 đã hoàn thành chương trình giáo dục bậc cao là bao nhiêu phần trăm?",
+    "expected_answer": "70%",
+    "gold_source_id": "worldbank-vietnam-taking-stock-aug-2022",
+    "gold_page": 64,
+    "evidence_quote": "Tại Hàn Quốc, 70% người dân ở độ tuổi từ 24 đến 35 đã hoàn thành chương trình giáo dục bậc cao",
+    "filter": {
+      "section": "phu_luc"
+    },
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "matching_rank": 1,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p64_b001",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 64,
+        "score": 0.7214920649180518,
+        "metadata": {
+          "section": "phu_luc",
+          "is_useful": true,
+          "char_count": 756,
+          "chunk_index": 1,
+          "printed_page": 46,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": true,
+        "is_hit": true,
+        "text": "GIÁO DỤC ĐỂ TĂNG TRƯỞNG \n46\nPHỤ LỤC 2.1. HÀN QUỐC: NGHỊ TRÌNH PHÁT TRIỂN DỰA \nVÀO GIÁO DỤC \nTại Hàn Quốc, 70% người dân ở độ tuổi từ 24 đến 35 đã hoàn thành chương trình giáo dục bậc cao (có thể \nlà bằng đại học hoặc cao hơn trong trường đại học, đã hoàn thành chương trình bách khoa ngắn hạn, hoặc \ntương đương): đây là một trong những tỷ lệ cao nhất thế giới. Cách tiếp cận bốn giai đoạn trong giáo dục \nvà phát triển của Hàn Quốc là điều Việt Nam có thể học hỏi, đặc biệt khi Việt Nam dường như đang sẵn \nsàng bước sang giai đoạn phát triển thứ 03, nghĩa là dựa vào tri thức, tạo đột phá và nâng cấp về công \nnghệ. Bốn giai đoạn này bao gồm:\n\n3⁄4 Giai đoạn 1 (1948-1960): mở rộng giáo dục tiểu học và giáo dục xóa mù để tạo nền tảng phát triển kinh \ntế."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p51_b004",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 51,
+        "score": 0.6793968037347512,
+        "metadata": {
+          "section": "giao_duc_dai_hoc",
+          "is_useful": true,
+          "char_count": 833,
+          "chunk_index": 4,
+          "printed_page": 33,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": false,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "Hình 2.2. Tỷ lệ nhập học giáo dục sau phổ thông tại Việt Nam và một số quốc gia giai đoạn 2000–2019 \nTrung Quốc Indonesia Malaysia\nPhilippines Hàn Quốc Thái Lan\nViệt Nam\n0\n20\n40\n60\n80\n100\n120\n2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019\nNguồn: Dữ liệu và tính toán của cán bộ Ngân hàng Thế giới.\n\n20 Dữ liệu Thế giới. 2022. “So sánh quốc gia: Hàn Quốc và Việt Nam.» Trong năm 2019, GDP theo đầu người của Ma-lay-xia là \n10.400 US$; của Hàn Quốc là 31.600 US$ và của Việt Nam là 3450 US$. https://www.worlddata.info/country-comparison.\n\nphp?country1=KOR&country2=VNM\n21 Viện Thống kê Unesco. Tỷ lệ nhập học gộp (GER) là tổng số nhập học vào cấp giáo dục sau phổ thông bất kể độ tuổi, được biểu \ndiễn bằng tỷ lệ phần trăm dân số ở nhóm 5 tuổi ngay sau cấp học trung học phổ thông."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "worldbank-vietnam-taking-stock-aug-2022_p64_b003",
+        "document_id": "worldbank-vietnam-taking-stock-aug-2022",
+        "source": "worldbank-vietnam-taking-stock-aug-2022",
+        "page": 64,
+        "score": 0.6769204868533117,
+        "metadata": {
+          "section": "phu_luc",
+          "is_useful": true,
+          "char_count": 1000,
+          "chunk_index": 3,
+          "printed_page": 46,
+          "chunk_strategy": "by_paragraph"
+        },
+        "is_gold_page": true,
+        "contains_evidence": false,
+        "is_hit": false,
+        "text": "Trong giai đoạn này, Hàn Quốc đẩy mạnh giáo dục về nghiên cứu những công nghệ cần có cho các \nngành công nghiệp có ưu thế vượt trội, đồng thời tái định hướng nguồn nhân lực để tăng cường năng \nlực nghiên cứu khoa học và công nghệ bằng cách phát triển các trường cao đẳng chuyên ngành hai \nnăm, các khoa ngành khoa học và kỹ thuật tại các trường đại học. Cuối cùng, quốc gia của họ đã mở \nrộng cơ hội tham gia giáo dục bậc cao bằng cách tập trung liên tục mở rộng cơ hội tham gia giáo dục \nbậc cao. Bằng cách ban hành hệ thống chỉ tiêu tốt nghiệp của các trường đại học nhằm tiếp nhận thêm \nsinh viên và chỉ cho phép những người đủ điều kiện mới được tốt nghiệp vào năm 2081, Chính phủ đã \nmở rộng cơ hội nhập học tại các trường đại học, đồng thời hỗ trợ cho các trường đại học về cơ sở vật \nchất để tiếp nhận thêm sinh viên. Từ giữa thập kỷ 1990 - sau khi ngành dịch vụ đã phát triển và xã hội \nHàn Quốc đã trở thành xã hội thông tin dựa trên tri thức - nhu cầu giáo dục bậc cao và giáo dục trọn \nđời"
+      }
+    ],
+    "strategy": "B",
+    "filter_applied": null
+  }
+]

@@ -45,3 +45,49 @@ Dùng cùng dữ liệu, model và câu hỏi cho cả ba cấu hình. Tách **1
 | Cách nộp bài | [SUBMISSION.md](SUBMISSION.md) |
 
 [data/format-example.json](data/format-example.json) chỉ minh họa định dạng, không phải corpus đủ điều kiện. Phần xử lý và benchmark do bạn tự hiện thực; không bắt buộc xây chatbot.
+
+---
+
+## Hướng dẫn thiết lập và tái lập kết quả (Reproducibility Guide)
+
+### 1. Thiết lập môi trường Python
+Thực hiện các lệnh sau từ thư mục `starter/`:
+```bash
+cd starter
+python3 -m venv .venv
+source .venv/bin/activate
+# Trên Windows PowerShell: .venv\Scripts\Activate.ps1
+python -m pip install -r requirements.txt
+```
+
+### 2. Cấu hình biến môi trường (`starter/.env`)
+Tạo file `.env` từ file mẫu `.env.example`:
+```bash
+cp .env.example .env
+```
+Thiết lập các biến môi trường trong `starter/.env`:
+- `DATABASE_URL`: Đường dẫn kết nối PostgreSQL local (mặc định dùng cho Docker Compose: `postgresql://day6:day6_local_only@127.0.0.1:55433/day6_lab`).
+- `GEMINI_API_KEY`: API key cá nhân từ Google AI Studio dùng cho embedding model (không commit file `.env` chứa khóa xác thực).
+
+### 3. Khởi động cơ sở dữ liệu và kiểm tra kết nối
+```bash
+docker compose -p day6_student_starter up -d --wait
+python scripts/check_setup.py
+```
+*Kỳ vọng: Hệ thống báo thông tin phiên bản PostgreSQL, pgvector và thông báo `Setup OK`.*
+
+### 4. Thực thi Pipeline và Đánh giá Benchmark
+Từ thư mục `starter/` khi môi trường ảo đã được kích hoạt:
+```bash
+python -m src.run
+```
+*Ghi chú về bộ đệm vector: Hệ thống lưu cache vector tại `starter/results/embedding_cache.json`. Các lượt chạy lại với cùng dữ liệu chunk và câu hỏi đã cache sẽ đọc trực tiếp từ tệp này để tránh gọi lại API không cần thiết và tiết kiệm thời gian. Khi có dữ liệu mới hoặc cache miss, hệ thống sẽ thực hiện gọi Gemini API theo hạn mức và biểu phí của nhà cung cấp.*
+
+### 5. Kiểm tra cấu trúc kết quả và báo cáo
+- Trace truy xuất top-3: `results/traces_strategy_A.json`, `results/traces_strategy_B.json`, `results/traces_strategy_C.json`
+- Tổng hợp chỉ số định lượng: `results/summary_metrics.json`
+- Báo cáo cá nhân: `report/individual/2A202603916_TangNguyenHaiDang.md`
+- Nhật ký thí nghiệm: `artifacts/experiment_log.csv`
+- Dữ liệu manifest: `data/manifest.json`
+- Bộ câu hỏi benchmark: `benchmark/questions.json`
+
